@@ -540,8 +540,8 @@
       "searchable": 1,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://fanty.run.goorm.site/ext/bilibili.json",
-      "jar":"./jar/fan1.txt;md5;ea2690fc66083afe1431071968e60395"
+      "jar":"./jar/fan1.txt;md5;ea2690fc66083afe1431071968e60395",
+      "ext": "https://fanty.run.goorm.site/ext/bilibili.json"
     },
     {
       "key": "Biliych",
@@ -555,8 +555,8 @@
       "searchable": 1,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://fanty.run.goorm.site/ext/biliych.json"，
-      "jar":"./jar/fan1.txt;md5;ea2690fc66083afe1431071968e60395"
+      "jar":"./jar/fan1.txt;md5;ea2690fc66083afe1431071968e60395",
+      "ext": "https://fanty.run.goorm.site/ext/biliych.json"
     },
     {
       "key": "虎牙直播js",
