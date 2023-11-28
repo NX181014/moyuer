@@ -193,7 +193,7 @@
       "type": 3,
       "api": "csp_UpYun",
       "ext": "http://127.0.0.1:9978/file/tvfan/token.json",
-      "jar": "./jsr/sx.txt"
+      "jar": "./jar/sx.txt"
     },
     {
       "key": "csp_Anime1",
