@@ -498,6 +498,18 @@
       "jar": "./jar/ogjar.php;md5;4ebdfa80cc9c36349563afa7aa2acf49"
     },
     {
+      "key": "MV_vod",
+      "name": "🐟明星MV",
+      "type": 1,
+      "api": "https://mv.wogg.link/mv/vod",
+      "style": {
+        "type": "oval"
+      },
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0
+    },
+    {
       "key": "Bili",
       "name": "🐟哔哩合集",
       "type": 3,
@@ -1240,7 +1252,7 @@
     },
     {
       "key": "cc1",
-      "name": "🍀🍁关注公众号",
+      "name": "数据源于互联网搜索｜仅供测试┃切勿相信接口广告",
       "type": 3,
       "api": "csp_XPath",
       "searchable": 0,
@@ -1249,7 +1261,7 @@
     },
     {
       "key": "cc2",
-      "name": "『乐享汇fans』",
+      "name": "请于24小时内删除测试内容｜QQ群536992286",
       "type": 3,
       "api": "csp_XPath",
       "searchable": 0,
@@ -1258,7 +1270,7 @@
     },
     {
       "key": "cc3",
-      "name": "『乐享生活fans』",
+      "name": "使用教程更新公告|关注夕颜社区",
       "type": 3,
       "api": "csp_XPath",
       "searchable": 0,
@@ -1267,7 +1279,7 @@
     },
     {
       "key": "cc4",
-      "name": "11.28维护更新🍁🍀",
+      "name": "摸鱼儿免费分享|禁止贩卖",
       "type": 3,
       "api": "csp_XPath",
       "searchable": 0,
