@@ -46,15 +46,13 @@
       "jar": "./jar/moyu应用市场.jar"
     },
     {
-      "key": "玩偶哥哥",
+      "key": "csp_WoG",
       "name": "4K-HDR🐟A",
-      "type": 3,
-      "api": "csp_WoGG",
+      "type": 4,
+      "api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=6c0c18a1c1af4dda8254d42518ba8518",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 0,
-      "jar":"./jar/fan.txt;md5;364c0f012e73a8801a69900fc25ae9c1",
-      "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"
+      "filterable": 1
     },
     {
      "key": "csp_XBPQ_6V",
@@ -152,13 +150,15 @@
       }
     },
     {
-      "key": "csp_WoG",
-      "name": "❤️4K-HDR｜玩偶T4",
-      "type": 4,
-      "api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=5b6a7e5cf4e6423da5e130566f261569",
+      "key": "玩偶哥哥",
+      "name": "❤️4K-HDR｜玩偶弹幕",
+      "type": 3,
+      "api": "csp_WoGG",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1
+      "changeable": 0,
+      "jar":"./jar/fan.txt;md5;364c0f012e73a8801a69900fc25ae9c1",
+      "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"
     },
     {
       "key": "csp_XYQHikerdyx",
