@@ -22,7 +22,7 @@
      "searchable":1,
      "filterable": 0, 
      "changeable":0,
-     "jar":"./jar/alisz.jar",
+     "jar":"./jar/alisz.jar"
     },
     {
       "key": "应用商店",
