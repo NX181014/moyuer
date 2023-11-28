@@ -164,16 +164,6 @@
       }
     },
     {
-      "key": "一起看 ",
-      "name": "4K-HDR🐟Q",
-      "type": 3,
-      "api": "csp_YQKan",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "jar":"./jar/fan.txt;md5;364c0f012e73a8801a69900fc25ae9c1"
-    },
-    {
       "key": "Upyunso",
       "name": "❤️4K-HDR｜云搜",
       "type": 3,
@@ -447,27 +437,6 @@
       "jar": "./jar/ogjar1.php;md5;550a6ae1d050d7f8b1bf3b715d1f5277"
     },
     {
-      "key": "短剧网",
-      "name": "💚短剧网",
-      "type": 3,
-      "api": "csp_Duanjuw",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "jar": "./jar/ogjar.php;md5;4ebdfa80cc9c36349563afa7aa2acf49"
-    },
-    {
-      "key": "csp_AppYsV2_Mxone",
-      "name": "💚短剧星",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://www.kuin.one/api.php/app/",
-      "jar": "./jar/ogjar.php;md5;4ebdfa80cc9c36349563afa7aa2acf49"
-    },
-    {
       "key": "csp_Anime1",
       "name": "🐟高燃日漫",
       "type": 3,
@@ -587,76 +556,6 @@
       "changeable": 0
     },
     {
-      "key": "相声",
-      "name": "🐟相声",
-      "type": 3,
-      "searchable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "quickSearch": 0,
-      "api": "csp_XBPQ",
-      "jar": "http://luoye.shop/b.jar;md5;1484e86a3a4463eaf8ef41c6832a1df0",
-      "ext": {
-        "主页url": "https://www.xsmp3.com",
-        "数组二次截取": "<ul id=\"post_list_box\">&&</ul",
-        "数组": "<li class=\"www_xsmp3_com post_list_li\">&&</div>",
-        "图片": "https://gd-filems.dancf.com/gaoding/cms/mcm79j/mcm79j/59385/6a211035-3658-45ce-a476-79f6f5dc02b71172884.png?x-oss-process=image/resize,h_1308/interlace,1",
-        "标题": "title=\"&&\"",
-        "副标题": ">&&</a",
-        "链接": "href=\"&&\"",
-        "播放二次截取": "autoplay&&;</script>",
-        "播放数组": "\\[&&\\]",
-        "播放列表": "{&&}",
-        "播放链接": "url*\"&&\"",
-        "播放标题": "name*\"&&\"",
-        "播放副标题": "artist*\"&&\"",
-        "线路数组": "相声随身听",
-        "线路标题": "相声随身听",
-        "导演": "摸鱼",
-        "主演": "相声明星",
-        "简介": "相声合集",
-        "分类url": "https://www.xsmp3.com/{cateId}/{catePg}.html;;av",
-        "分类": "郭德纲$gdg#德云社$dys#新势力$xsxsl#青区社$qqs#马三立$msl#更多$xsmj"
-      }
-    },
-    {
-      "key": "评书",
-      "name": "🐟书评",
-      "type": 3,
-      "searchable": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "quickSearch": 0,
-      "api": "csp_XBPQ",
-      "jar": "http://luoye.shop/b.jar;md5;1484e86a3a4463eaf8ef41c6832a1df0",
-      "ext": {
-        "主页url": "https://www.psmp3.com",
-        "数组二次截取": "<ul id=\"post_list_box\">&&</ul",
-        "数组": "<li class=\"www_psmp3_com post_list_li\">&&</div>",
-        "图片": "https://bkimg.cdn.bcebos.com/pic/86d6277f9e2f07084e3cb402ee24b899a901f2f3",
-        "标题": "title=\"&&\"",
-        "副标题": ">&&</a",
-        "链接": "href=\"&&\"",
-        "播放二次截取": "autoplay&&;</script>",
-        "播放数组": "\\[&&\\]",
-        "播放列表": "{&&}",
-        "播放链接": "url*\"&&\"",
-        "播放标题": "name*\"&&\"",
-        "播放副标题": "artist*\"&&\"",
-        "线路数组": "评书随身听",
-        "线路标题": "评书随身听",
-        "导演": "摸鱼",
-        "主演": "评书明星",
-        "简介": "评书合集",
-        "分类url": "https://www.psmp3.com/{cateId}/{catePg}.html;;av",
-        "分类": "袁阔成$ykc#单田芳$stf#田连元$tly#刘兰芳$llf#连丽如$llr#张少佐$zsz#田战义$tzy"
-      }
-    },
-    {
       "key": "橘子",
       "name": "🐟橘子|APP",
       "type": 3,
@@ -688,6 +587,16 @@
         "分类": "电影$1#连续剧$2#综艺$3#动漫$4",
         "分类url": "https://www.jugege.cc/vodshow/{cateId}-{area}-{by}--{lang}----{catePg}---{year}.html"
       }
+    },
+    {
+      "key": "一起看 ",
+      "name": "🐟一起看|APP",
+      "type": 3,
+      "api": "csp_YQKan",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "jar":"./jar/fan.txt;md5;364c0f012e73a8801a69900fc25ae9c1"
     },
     {
       "key":"KK",
@@ -1163,7 +1072,98 @@
       "filterable": 1,
       "jar": "./jar/ogjar.php;md5;4ebdfa80cc9c36349563afa7aa2acf49"
     },
-  {
+    {
+      "key": "短剧网",
+      "name": "💚短剧网",
+      "type": 3,
+      "api": "csp_Duanjuw",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "jar": "./jar/ogjar.php;md5;4ebdfa80cc9c36349563afa7aa2acf49"
+    },
+    {
+      "key": "csp_AppYsV2_Mxone",
+      "name": "💚短剧星",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.kuin.one/api.php/app/",
+      "jar": "./jar/ogjar.php;md5;4ebdfa80cc9c36349563afa7aa2acf49"
+    },
+    {
+      "key": "相声",
+      "name": "摸摸🐟｜相声",
+      "type": 3,
+      "searchable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "quickSearch": 0,
+      "api": "csp_XBPQ",
+      "jar": "http://luoye.shop/b.jar;md5;1484e86a3a4463eaf8ef41c6832a1df0",
+      "ext": {
+        "主页url": "https://www.xsmp3.com",
+        "数组二次截取": "<ul id=\"post_list_box\">&&</ul",
+        "数组": "<li class=\"www_xsmp3_com post_list_li\">&&</div>",
+        "图片": "https://gd-filems.dancf.com/gaoding/cms/mcm79j/mcm79j/59385/6a211035-3658-45ce-a476-79f6f5dc02b71172884.png?x-oss-process=image/resize,h_1308/interlace,1",
+        "标题": "title=\"&&\"",
+        "副标题": ">&&</a",
+        "链接": "href=\"&&\"",
+        "播放二次截取": "autoplay&&;</script>",
+        "播放数组": "\\[&&\\]",
+        "播放列表": "{&&}",
+        "播放链接": "url*\"&&\"",
+        "播放标题": "name*\"&&\"",
+        "播放副标题": "artist*\"&&\"",
+        "线路数组": "相声随身听",
+        "线路标题": "相声随身听",
+        "导演": "摸鱼",
+        "主演": "相声明星",
+        "简介": "相声合集",
+        "分类url": "https://www.xsmp3.com/{cateId}/{catePg}.html;;av",
+        "分类": "郭德纲$gdg#德云社$dys#新势力$xsxsl#青区社$qqs#马三立$msl#更多$xsmj"
+      }
+    },
+    {
+      "key": "评书",
+      "name": "摸摸🐟｜书评",
+      "type": 3,
+      "searchable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "quickSearch": 0,
+      "api": "csp_XBPQ",
+      "jar": "http://luoye.shop/b.jar;md5;1484e86a3a4463eaf8ef41c6832a1df0",
+      "ext": {
+        "主页url": "https://www.psmp3.com",
+        "数组二次截取": "<ul id=\"post_list_box\">&&</ul",
+        "数组": "<li class=\"www_psmp3_com post_list_li\">&&</div>",
+        "图片": "https://bkimg.cdn.bcebos.com/pic/86d6277f9e2f07084e3cb402ee24b899a901f2f3",
+        "标题": "title=\"&&\"",
+        "副标题": ">&&</a",
+        "链接": "href=\"&&\"",
+        "播放二次截取": "autoplay&&;</script>",
+        "播放数组": "\\[&&\\]",
+        "播放列表": "{&&}",
+        "播放链接": "url*\"&&\"",
+        "播放标题": "name*\"&&\"",
+        "播放副标题": "artist*\"&&\"",
+        "线路数组": "评书随身听",
+        "线路标题": "评书随身听",
+        "导演": "摸鱼",
+        "主演": "评书明星",
+        "简介": "评书合集",
+        "分类url": "https://www.psmp3.com/{cateId}/{catePg}.html;;av",
+        "分类": "袁阔成$ykc#单田芳$stf#田连元$tly#刘兰芳$llf#连丽如$llr#张少佐$zsz#田战义$tzy"
+      }
+    },
+    {
       "key": "dr_兔小贝",
       "name": "📚儿童┃启蒙",
       "type": 3,
