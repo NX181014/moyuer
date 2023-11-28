@@ -141,6 +141,15 @@
       }
     },
     {
+      "key": "csp_WoG",
+      "name": "❤️4K-HDR｜玩偶T4",
+      "type": 4,
+      "api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=5b6a7e5cf4e6423da5e130566f261569",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "YiSo",
       "name": "❤️4K-HDR｜易搜",
       "type": 3,
@@ -189,7 +198,7 @@
     },
     {
       "key": "UP云搜",
-      "name": "搜索 | 云搜",
+      "name": "❤️4K-HDR｜云搜",
       "type": 3,
       "api": "csp_UpYun",
       "ext": "http://127.0.0.1:9978/file/tvfan/token.json",
