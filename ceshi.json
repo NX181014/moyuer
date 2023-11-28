@@ -495,7 +495,7 @@
       "api": "csp_Ysj",
       "searchable": 1,
       "changeable": 1,
-      "jar": "/jar/ogjar.php;md5;4ebdfa80cc9c36349563afa7aa2acf49"
+      "jar": "./jar/ogjar.php;md5;4ebdfa80cc9c36349563afa7aa2acf49"
     },
     {
       "key": "Bili",
@@ -746,7 +746,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "/jar/ogjar.php;md5;4ebdfa80cc9c36349563afa7aa2acf49"
+      "jar": "./jar/ogjar.php;md5;4ebdfa80cc9c36349563afa7aa2acf49"
     },
     {
       "key": "csp_77",
@@ -756,7 +756,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "/jar/ogjar.php;md5;4ebdfa80cc9c36349563afa7aa2acf49"
+      "jar": "./jar/ogjar.php;md5;4ebdfa80cc9c36349563afa7aa2acf49"
     },
     {
       "key": "360_spider",
@@ -766,7 +766,7 @@
       "filterable": 1,
       "quickSearch": 1,
       "searchable": 1,
-      "jar": "/jar/ogjar.php;md5;4ebdfa80cc9c36349563afa7aa2acf49"
+      "jar": "./jar/ogjar.php;md5;4ebdfa80cc9c36349563afa7aa2acf49"
     },
     {
       "key": "低端",
@@ -776,7 +776,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "/jar/ogjar.php;md5;4ebdfa80cc9c36349563afa7aa2acf49"
+      "jar": "./jar/ogjar.php;md5;4ebdfa80cc9c36349563afa7aa2acf49"
     },
     {
       "key": "影图资源",
