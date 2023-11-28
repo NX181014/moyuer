@@ -2,17 +2,6 @@
   "spider":"./jar/moyu.jar",
   "wallpaper":"https://api.likepoems.com/img/bing",
   "warningText":"摸鱼儿：资源来自网络，无盈利，纯技术分享，如有冒犯请联系删除。[所有内容仅供学习使用，请勿用于违法及商业用途，请勿付费购买]",
-  "lives": [
-    {
-      "name": "live2",
-      "type": 0,
-      "url": "https://jihulab.com/moyuer/moyu/-/raw/main/moyulive.txt",
-      "ua": "okhttp/3.12.13",
-      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
-      "logo": "https://epg.112114.xyz/logo/{name}.png"
-    }
-  ],
-
 "sites":[
     {
       "key": "豆豆",
@@ -531,8 +520,17 @@
       "jar":"https://jihulab.com/clear1/yingmi/-/raw/main/jar/fan.jar"
     },
     {
+      "key": "異界",
+      "name": "🐟异界动漫",
+      "type": 3,
+      "api": "csp_Ysj",
+      "searchable": 1,
+      "changeable": 1,
+      "jar": "/jar/ogjar.php;md5;4ebdfa80cc9c36349563afa7aa2acf49"
+    },
+    {
       "key": "Bili",
-      "name": "🐟哔哩哔哩",
+      "name": "🐟哔哩合集",
       "type": 3,
       "api": "csp_Bili",
       "style": {
@@ -542,8 +540,23 @@
       "searchable": 1,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/json/bilibili.json",
-      "jar":"./jar/fan.txt;md5;364c0f012e73a8801a69900fc25ae9c1"
+      "ext": "https://fanty.run.goorm.site/ext/bilibili.json",
+      "jar":"./jar/fan1.txt;md5;ea2690fc66083afe1431071968e60395"
+    },
+    {
+      "key": "Biliych",
+      "name": "🐟哔哩歌曲",
+      "type": 3,
+      "api": "csp_Bili",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 1,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "https://fanty.run.goorm.site/ext/biliych.json"，
+      "jar":"./jar/fan1.txt;md5;ea2690fc66083afe1431071968e60395"
     },
     {
       "key": "虎牙直播js",
@@ -824,7 +837,27 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "/jar/ogjar1.php;md5;550a6ae1d050d7f8b1bf3b715d1f5277"
+      "jar": "/jar/ogjar.php;md5;4ebdfa80cc9c36349563afa7aa2acf49"
+    },
+    {
+      "key": "csp_77",
+      "name": "🐟七七┃直连",
+      "type": 3,
+      "api": "csp_Kunyu77",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "/jar/ogjar.php;md5;4ebdfa80cc9c36349563afa7aa2acf49"
+    },
+    {
+      "key": "360_spider",
+      "name": "🐟360┃直连",
+      "type": 3,
+      "api": "csp_SP360",
+      "filterable": 1,
+      "quickSearch": 1,
+      "searchable": 1,
+      "jar": "/jar/ogjar.php;md5;4ebdfa80cc9c36349563afa7aa2acf49"
     },
     {
       "key": "低端",
@@ -834,42 +867,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "/jar/ogjar1.php;md5;550a6ae1d050d7f8b1bf3b715d1f5277"
+      "jar": "/jar/ogjar.php;md5;4ebdfa80cc9c36349563afa7aa2acf49"
     },
-    {
-      "key": "蝴蝶",
-      "name": "🐟蝴蝶┃直连",
-      "type": 3,
-      "api": "csp_Hudie",
-      "playerType": 2,
-      "ext": "https://yundun-hdsign.zhuifeng100.cn|kT2taP|75f7fac7f56d812d1f9ce89d9f312984|b7688bd6347da0b2b62515b0730b872b",
-      "jar": "/jar/ogjar1.php;md5;550a6ae1d050d7f8b1bf3b715d1f5277"
-    },
-    {
-      "key": "橘子",
-      "name": "🐟橘子┃直连",
-      "type": 3,
-      "api": "csp_Appto",
-      "searchable": 1,
-      "quickSearch": 1,
-      "playerType": 2,
-      "filterable": 1,
-      "ext": "nbOdUoFXWvBmYlNj/qG8q6ytWFIZwtQPtFFI3cwHTOjM7FKVzTbwY0UHQEImlWb/pHq5gMm6LS2HhJI1m5+/s20tWUHsfJ1BIc4rlkWL5xqOQ/EhgcwCwcKi7ECmsFCBAxb69vZB0qXeElk+GDnHEPxoiB3EqjFfAJ88lClO/fKiZKGBnTdyRVG8VAvmercLgiklQwl6jSHVHanEdkZhMj2jIUEKsVeBWOocRzhJ/7457CvmQd/kLyTabYHJ+jrT7m4iVCnGDL7Aw5W+yeOF8FoH2zfTBBARd0o/8ACk+C7pbFTHI3HbjgiBWatiYevYz8buFQdxmSyXA1kgq5hi8WQ5f/STXW4vtO2ZfbVvEHE4T4MKyb1Cs9Hd0daU/Hb1dukLo9sV7fIisMWkr0UuDvYJJMq6xBU5vnFqxYwp59NsgGK/lc6P7oYWERiZWW6Oe/aVFSapfWILTqV1/UBrsjmgtK8XZTvY4hWh0khKyxwpdyQkQ1JzXfB+CHtM3cPXMKEol3PP9XoMLy4K93+/AH2ty15mcmpBfzip4mZmy8r0g+yV8vqaanhRcBDEvZMy0SgWW59YgbavdsNm7TeIrs/WasVtLrLeRPn5jvlc/Q4FXfx320XO3LI0jMqA0f++gQjCUvfsB3wdi29Sv7NYtMqj8ltg23bzuHg2lfZG+nM8=",
-      "jar": "/jar/ogjar1.php;md5;550a6ae1d050d7f8b1bf3b715d1f5277"
-    },
-    {
-      "key": "视觉",
-      "name": "🐟视觉┃直连",
-      "type": 3,
-      "api": "csp_Appto",
-      "searchable": 1,
-      "quickSearch": 1,
-      "playerType": 2,
-      "filterable": 1,
-      "ext": "jrytgWz8W3BsIGIs/QktiAoZ7DtDplwV9Pg7bF8WHnTF5F2klyA77RixFCdoINLj8nCqhlMNuwB1Pb2inNFkZjh8RyGN7ZiOnqpb+aNKTWc/Jck9cfN+SNPCNjjnciGaRqH02Q0iKQBwU/zWOS96pWBxD9lY0qzeNbz4IrokjL7REfCrRVCcOVrXRuY+Pqa4W64no+kOxEzgiXo2D2z1M5rewxwQD0hMFq8psl+TndXgy3T02vKjjNzGT6U7IqR2O1BPEj7GbFWtGZHeYsMp9/hvlhKj6zpekdc/TuxTAQ5+zLGSoL5rrwLOlEr+OSpeT8C6bDxI9wvvmIoFMLMmgHEo2weV2KgP6r6MONUo7B7UlSWSydzHsXYKjcM0Z0kk5GO6eCn2/H3nDnhccyOtL101S4JRTPAsF4FStqYRibK/I1jwUd8+tUxUKtHRqb2tSD5g0HzcKjZGSCvw/drZKG2dEtOEFhb8f6b3f+UH6f8oGOPrw5n/sUmWoMtNV6qO0uXgisoIBGcesdlXaZd7ZmFwecyipGGkUh2L+uHKTpGBYXpwYZweuESOdeaemVcEiPWs0uvWxi3fQHvhYyVOORJxrVWwwkxAOUGbQCCXxeghANz9NPwK6ff6siV0+p2486wXV55TX8rR8UakzQ1f7/5PaFp5FnjQEzwmkPF/zzE4=",
-      "jar": "/jar/ogjar1.php;md5;550a6ae1d050d7f8b1bf3b715d1f5277"
-    },
-
     {
       "key": "影图资源",
       "name": "🎀影图┃采集",
@@ -1164,6 +1163,81 @@
       "filterable": 1,
       "jar": "./jar/ogjar.php;md5;4ebdfa80cc9c36349563afa7aa2acf49"
     },
+  {
+      "key": "dr_兔小贝",
+      "name": "📚儿童┃启蒙",
+      "type": 3,
+      "api": "https://fanty.run.goorm.site/ext/js/drpy2.min.js",
+      "ext": "https://fanty.run.goorm.site/ext/%E5%85%94%E5%B0%8F%E8%B4%9D.js",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "jar":"./jar/fan1.txt;md5;ea2690fc66083afe1431071968e60395"
+    },
+    {
+      "key": "少儿教育",
+      "name": "📚少儿┃教育",
+      "type": 3,
+      "api": "csp_Bili",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "https://fanty.run.goorm.site/ext/少儿教育.json",
+      "jar":"./jar/fan1.txt;md5;ea2690fc66083afe1431071968e60395"
+    },
+    {
+      "key": "小学课堂",
+      "name": "📚小学┃课堂",
+      "type": 3,
+      "api": "csp_Bili",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "https://fanty.run.goorm.site/ext/小学课堂.json",
+      "jar":"./jar/fan1.txt;md5;ea2690fc66083afe1431071968e60395"
+    },
+    {
+      "key": "初中课堂",
+      "name": "📚初中┃课堂",
+      "type": 3,
+      "api": "csp_Bili",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "https://fanty.run.goorm.site/ext/初中课堂.json",
+      "jar":"./jar/fan1.txt;md5;ea2690fc66083afe1431071968e60395"
+    },
+    {
+      "key": "高中教育",
+      "name": "📚高中┃课堂",
+      "type": 3,
+      "api": "csp_Bili",
+      "style": {
+        "type": "rect",
+        "ratio": 1.597
+      },
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0,
+      "ext": "https://fanty.run.goorm.site/ext/高中课堂.json",
+      "jar":"./jar/fan1.txt;md5;ea2690fc66083afe1431071968e60395"
+    },
     {
       "key": "cc1",
       "name": "🍀🍁关注公众号",
@@ -1201,6 +1275,16 @@
       "filterable": 0
     }
 ],
+  "lives": [
+    {
+      "name": "live2",
+      "type": 0,
+      "url": "https://jihulab.com/moyuer/moyu/-/raw/main/moyulive.txt",
+      "ua": "okhttp/3.12.13",
+      "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
+      "logo": "https://epg.112114.xyz/logo/{name}.png"
+    }
+  ],
 "parses":[
         {"name":"解析聚合","type":3,"url":"Demo"},
         {"name":"Json轮询","type":2,"url":"Sequence"},
