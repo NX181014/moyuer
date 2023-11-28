@@ -791,14 +791,6 @@
       "jar": "./jar/ogjar.php;md5;4ebdfa80cc9c36349563afa7aa2acf49"
     },
     {
-      "key": "影图资源",
-      "name": "🎀影图┃采集",
-      "type": 1,
-      "api": "https://cj.vodimg.top/api.php/provide/vod/",
-      "searchable": 1,
-      "quickSearch": 1
-    },
-    {
       "key": "红牛资源",
       "name": "🎀红牛┃采集",
       "type": 1,
