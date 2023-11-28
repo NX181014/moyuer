@@ -175,7 +175,7 @@
     },
     {
       "key": "Upyunso",
-      "name": "❤️阿里｜云搜",
+      "name": "❤️4K-HDR｜云搜",
       "type": 3,
       "api": "csp_Upyunso",
       "searchable": 1,
@@ -186,7 +186,7 @@
     },
     {
       "key": "AliPS",
-      "name": "❤️阿里｜盘搜",
+      "name": "❤️4K-HDR｜盘搜",
       "type": 3,
       "api": "csp_AliPS",
       "searchable": 1,
@@ -197,7 +197,7 @@
     },
     {
       "key": "Yisou",
-      "name": "❤️阿里｜易搜",
+      "name": "❤️4K-HDR｜易搜",
       "type": 3,
       "api": "csp_Yisou",
       "searchable": 1,
@@ -208,7 +208,7 @@
     },
     {
       "key": "玩偶哥哥",
-      "name": "❤️阿里｜玩偶",
+      "name": "❤️4K-HDR｜玩偶",
       "type": 3,
       "api": "csp_XYQHikerAL",
       "searchable": 1,
@@ -219,7 +219,7 @@
     },
     {
       "key": "云盘搜索",
-      "name": "❤️阿里｜搜索",
+      "name": "❤️4K-HDR｜搜索",
       "type": 3,
       "api": "csp_XYQHiker",
       "searchable": 1,
@@ -230,7 +230,7 @@
     },
     {
       "key": "橘子盘搜",
-      "name": "❤️阿里｜橘子",
+      "name": "❤️4K-HDR｜橘子",
       "type": 3,
       "api": "csp_XYQHikerAL",
       "searchable": 1,
@@ -241,7 +241,7 @@
     },
     {
       "key": "我的小站",
-      "name": "❤️阿里｜小站",
+      "name": "❤️4K-HDR｜小站",
       "type": 3,
       "api": "csp_XYQHikerAL",
       "searchable": 1,
@@ -252,7 +252,7 @@
     },
     {
       "key": "阿里苏苏",
-      "name": "❤️阿里｜苏苏",
+      "name": "❤️4K-HDR｜苏苏",
       "type": 3,
       "api": "csp_XYQHikerAL",
       "searchable": 1,
@@ -263,7 +263,7 @@
     },
     {
       "key": "云盘论坛",
-      "name": "❤️阿里｜论坛",
+      "name": "❤️4K-HDR｜论坛",
       "type": 3,
       "api": "csp_XYQHikerAL",
       "searchable": 1,
@@ -274,7 +274,7 @@
     },
     {
       "key": "云盘资源",
-      "name": "❤️阿里｜资源",
+      "name": "❤️4K-HDR｜资源",
       "type": 3,
       "api": "csp_XYQHikerAL",
       "searchable": 1,
@@ -285,7 +285,7 @@
     },
     {
       "key": "云盘资源分享",
-      "name": "❤️阿里｜分享",
+      "name": "❤️4K-HDR｜分享",
       "type": 3,
       "api": "csp_XYQHikerAL",
       "searchable": 1,
@@ -296,7 +296,7 @@
     },
     {
       "key": "土拨鼠搜索",
-      "name": "❤️阿里｜土拨鼠",
+      "name": "❤️4K-HDR｜土拨鼠",
       "type": 3,
       "api": "csp_XYQHiker",
       "searchable": 1,
@@ -307,7 +307,7 @@
     },
     {
       "key": "豆豆飞搜索",
-      "name": "❤️阿里｜豆豆飞",
+      "name": "❤️4K-HDR｜豆豆飞",
       "type": 3,
       "api": "csp_XYQHikerAL",
       "searchable": 1,
@@ -318,7 +318,7 @@
     },
     {
       "key": "阿里云盘网",
-      "name": "❤️阿里｜云盘网",
+      "name": "❤️4K-HDR｜云盘网",
       "type": 3,
       "api": "csp_XYQHikerAL",
       "searchable": 1,
@@ -329,7 +329,7 @@
     },
     {
       "key": "云盘分享社",
-      "name": "❤️阿里｜分享社",
+      "name": "❤️4K-HDR｜分享社",
       "type": 3,
       "api": "csp_XYQBiu",
       "searchable": 1,
