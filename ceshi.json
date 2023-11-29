@@ -1,5 +1,5 @@
 {
-  "spider":"./jar/moyu.jar",
+  "spider":""./jar/fan.txt;md5;364c0f012e73a8801a69900fc25ae9c1",
   "wallpaper":"https://api.likepoems.com/img/bing",
   "warningText":"摸鱼儿：资源来自网络，无盈利，纯技术分享，如有冒犯请联系删除。[所有内容仅供学习使用，请勿用于违法及商业用途，请勿付费购买]",
 "sites":[
@@ -10,9 +10,7 @@
       "api": "csp_DouDou",
       "searchable": 0,
       "quickSearch": 0,
-      "filterable": 0,
-      "jar":"./jar/fan.txt",
-      "ext": "364c0f012e73a8801a69900fc25ae9c1"
+      "filterable": 0
     },
     {
       "key": "Wobg",
@@ -157,7 +155,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "jar":"./jar/fan.txt;md5;364c0f012e73a8801a69900fc25ae9c1",
       "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"
     },
     {
@@ -180,8 +177,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt+4k|fhd|auto",
-      "jar":"./jar/fan.txt;md5;364c0f012e73a8801a69900fc25ae9c1"
+      "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt+4k|fhd|auto"
     },
     {
       "key": "Zhaozy",
@@ -192,8 +188,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt+4k|fhd|auto$$$wudidewo$$$wudi",
-      "jar":"./jar/fan.txt;md5;364c0f012e73a8801a69900fc25ae9c1"
+      "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt+4k|fhd|auto$$$wudidewo$$$wudi"
     },
     {
       "key": "七夜",
@@ -203,8 +198,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd",
-      "jar":"./jar/fan.txt;md5;364c0f012e73a8801a69900fc25ae9c1"
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd"
     },
     {
       "key": "csp_search_PanSearch",
@@ -214,8 +208,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://127.0.0.1:9978/file/fatcat/token.txt",
-      "jar":"./jar/fan.txt"
+      "ext": "http://127.0.0.1:9978/file/fatcat/token.txt"
     },
     {
       "key": "UpYun",
@@ -226,8 +219,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt+4k|fhd|auto",
-      "jar":"./jar/fan.txt;md5;364c0f012e73a8801a69900fc25ae9c1"
+      "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt+4k|fhd|auto"
     },
     {
       "key": "UP云搜",
@@ -376,8 +368,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "FbjDcUxPqpfNr0QF4QvE6sExbcJUCYdIVisPtbeywENfScyc6nTW0F+D7rX5HCm9c3SL03FsmGsmXS04XZMlbxEVW4/ZgwONbnobxj8KxeRpXqDxCWghfAf9JSR025yi92eOKqE9HokX9QQnl1WsU21CR4+dlEMDEsADd1xFGiiGtsh0vqJFAf41Z7sYL00hBBNM3xJsYyXCuX4BrzNYpZRwmcnwnXIHe2MtwbsJf0IAs6yM+y/ub+niyxOc2YuPbc/VUS4DGPqzelIi6plLWFvZ8+j2xcvAgopZxZFhBkIYCIIC5Uec/JW8RgW9WV1SKntGcmcd5yjIpagsmpXymH3a+FKzHKMB3LvXmR6onijWkP0VpivFgVVfjWrik4Yr0ZjZxKFA0uPQvy9l9EjPMNrQIj0sZjnpv7JmoMO+HfQ+lqKhJrQFq4MooyyGv6yhNv12IOHay3A=",
-      "jar":"./jar/fan.txt;md5;364c0f012e73a8801a69900fc25ae9c1"
+      "ext": "FbjDcUxPqpfNr0QF4QvE6sExbcJUCYdIVisPtbeywENfScyc6nTW0F+D7rX5HCm9c3SL03FsmGsmXS04XZMlbxEVW4/ZgwONbnobxj8KxeRpXqDxCWghfAf9JSR025yi92eOKqE9HokX9QQnl1WsU21CR4+dlEMDEsADd1xFGiiGtsh0vqJFAf41Z7sYL00hBBNM3xJsYyXCuX4BrzNYpZRwmcnwnXIHe2MtwbsJf0IAs6yM+y/ub+niyxOc2YuPbc/VUS4DGPqzelIi6plLWFvZ8+j2xcvAgopZxZFhBkIYCIIC5Uec/JW8RgW9WV1SKntGcmcd5yjIpagsmpXymH3a+FKzHKMB3LvXmR6onijWkP0VpivFgVVfjWrik4Yr0ZjZxKFA0uPQvy9l9EjPMNrQIj0sZjnpv7JmoMO+HfQ+lqKhJrQFq4MooyyGv6yhNv12IOHay3A="
     },
     {
       "key": "龟龟",
@@ -408,8 +399,7 @@
       "api": "csp_YQKan",
       "searchable": 1,
       "quickSearch": 1,
-      "changeable": 0,
-      "jar":"./jar/fan.txt;md5;364c0f012e73a8801a69900fc25ae9c1"
+      "changeable": 0
     },
     {
       "key":"KK",
@@ -430,8 +420,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "FbjDcUxPqpfNr0QF4QvE6sExbd4UXJxJXzdL462ywU1XScGa5G6Hj0/c+Ou1GW6rdX6N2XIhnD46QzIsRoZ8bk4fG4OYi0iCaWwRj2ddkacwFqHtLjQhalHqIy0+kpiTvmeOfJYxTshgrxcJ+g3lEHx7ZLC9kB1TCfZUSHwqHB3tt6V/1OhRENIOZNRFfXVBEFd7jQg+J06kjCAF7z1Bt8hRvMjC2VcbQXsEz8MCZDgu06C9/wirWcTa/wWJsfT+Z7fXbg8ZeqKSLCRI+/RRQBPc6vWx9MDProlGxbNkNVwDJ+xZqA3LjZmRIzHgX1pPRHIeXgUD1SnKnP50u+DrnDvAnzqAN4YbvKvEmRyu91mw5dothweuk0B210O5i9VKs/rU4uU1g5i9+xgl5lyke5uYNicyRgauyPMi/PGzF6pDzMihKbgasc93/HnGr6W4LuZjf6eYnS2GgRzWRE0fT5kOayt6Ra40Irmh/M2AvZsLJYWpGzIW",
-      "jar":"./jar/fan.txt;md5;364c0f012e73a8801a69900fc25ae9c1"
+      "ext": "FbjDcUxPqpfNr0QF4QvE6sExbd4UXJxJXzdL462ywU1XScGa5G6Hj0/c+Ou1GW6rdX6N2XIhnD46QzIsRoZ8bk4fG4OYi0iCaWwRj2ddkacwFqHtLjQhalHqIy0+kpiTvmeOfJYxTshgrxcJ+g3lEHx7ZLC9kB1TCfZUSHwqHB3tt6V/1OhRENIOZNRFfXVBEFd7jQg+J06kjCAF7z1Bt8hRvMjC2VcbQXsEz8MCZDgu06C9/wirWcTa/wWJsfT+Z7fXbg8ZeqKSLCRI+/RRQBPc6vWx9MDProlGxbNkNVwDJ+xZqA3LjZmRIzHgX1pPRHIeXgUD1SnKnP50u+DrnDvAnzqAN4YbvKvEmRyu91mw5dothweuk0B210O5i9VKs/rU4uU1g5i9+xgl5lyke5uYNicyRgauyPMi/PGzF6pDzMihKbgasc93/HnGr6W4LuZjf6eYnS2GgRzWRE0fT5kOayt6Ra40Irmh/M2AvZsLJYWpGzIW"
     },
     {
       "key": "爱看",
@@ -517,28 +506,6 @@
       }
     },
     {
-      "key": "极速播",
-      "name": "🐟极速┃APP",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://www.gsjtlxy.top/xgapp.php/v3/",
-      "jar": "./jar/ogjar1.php;md5;550a6ae1d050d7f8b1bf3b715d1f5277"
-    },
-    {
-      "key": "瑞丰",
-      "name": "🐟辣辣┃APP",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://www.miniku.cc/xgapp.php/v2/",
-      "jar": "./jar/ogjar1.php;md5;550a6ae1d050d7f8b1bf3b715d1f5277"
-    },
-    {
       "key": "csp_Czsapp",
       "name": "🐟厂长┃直连",
       "type": 3,
@@ -548,8 +515,7 @@
       "changeable": 0,
       "quickSearch": 1,
       "ext": "https://www.czzy88.com/",
-      "filterable": 1,
-      "jar":"./jar/fan.txt;md5;364c0f012e73a8801a69900fc25ae9c1"
+      "filterable": 1
     },
     {
       "key": "哔嘀",
