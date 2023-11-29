@@ -13,18 +13,6 @@
       "filterable": 0
     },
     {
-      "key": "荐片",
-      "name": "摸摸🐟｜11.29更新",
-      "type": 3,
-      "api": "csp_Jianpian",
-      "playerType": 1,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar":"./jar/og1129.php;md5;4ebdfa80cc9c36349563afa7aa2acf49",
-      "ext":"ttps://ownjpykxttjzuhy.jiesiwa.com"
-    },
-    {
       "key": "阿里云盘登录",
       "name": "摸摸🐟｜登陆token",
       "type": 3,
