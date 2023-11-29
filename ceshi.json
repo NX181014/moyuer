@@ -22,10 +22,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "jar":"./jar/og1129.php;md5;4ebdfa80cc9c36349563afa7aa2acf49",
-      "ext": {
-        "filter": "ttps://ownjpykxttjzuhy.jiesiwa.com",
-        "danmu": true
-      }
+      "ext":"ttps://ownjpykxttjzuhy.jiesiwa.com"
     },
     {
       "key": "阿里云盘登录",
