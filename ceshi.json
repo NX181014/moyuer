@@ -13,15 +13,30 @@
       "filterable": 0
     },
     {
-      "key": "Wobg",
+      "key": "荐片",
       "name": "摸摸🐟｜11.29更新",
       "type": 3,
-      "api": "csp_Wobg",
+      "api": "csp_Jianpian",
+      "playerType": 1,
+      "searchable": 1,
       "quickSearch": 1,
-      "changeable": 1,
       "filterable": 1,
-      "ext": "./token.json$$$https://wobge.run.goorm.io$$$1",
-      "jar": "./jar/12.jar"
+      "ext": {
+        "filter": "ttps://ownjpykxttjzuhy.jiesiwa.com",
+        "danmu": true
+      },
+      "jar":"./jar/og1129.php;md5;4ebdfa80cc9c36349563afa7aa2acf49"
+    },
+    {
+      "key": "阿里云盘登录",
+      "name": "摸摸🐟｜登陆token",
+      "type": 3,
+      "api": "csp_AliYunPan",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "http://127.0.0.1:9978/file/TVBox/tok.txt"，
+      "jar":"./jar/og1129.php;md5;4ebdfa80cc9c36349563afa7aa2acf49"
     },
     {
      "key": "csp_KungFu404",
@@ -44,28 +59,8 @@
       "jar": "./jar/moyu应用市场.jar"
     },
     {
-      "key": "csp_WoG",
-      "name": "4K-HDR🐟A",
-      "type": 4,
-      "api": "http://home.jundie.top:9520/spider/csp_Wogg?sort=原画,蓝光,超清,高清&token=6c0c18a1c1af4dda8254d42518ba8518",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-     "key": "csp_XBPQ_6V",
-     "name": "4K-HDR🐟B",
-     "type": 3,
-     "api": "csp_XBPQ",
-     "searchable": 1,
-     "quickSearch": 1,
-     "filterable": 1,
-     "jar":"./jar/baobao.jar",
-     "ext":"./json/6Vip.json"
-    },
-    {
       "key": "影探VIP",
-      "name": "4K-HDR🐟C",
+      "name": "🐟4K-HDR｜A",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
@@ -75,8 +70,19 @@
       "jar":"./jar/pandaQ231115.jar;md5;cb2a84ff515a9d54fc7590bb56d62f04"
     },
     {
+     "key": "csp_XBPQ_6V",
+     "name": "🐟4K-HDR｜B",
+     "type": 3,
+     "api": "csp_XBPQ",
+     "searchable": 1,
+     "quickSearch": 1,
+     "filterable": 1,
+     "jar":"./jar/baobao.jar",
+     "ext":"./json/6Vip.json"
+    },
+    {
       "key": "好戏",
-      "name": "4K-HDR🐟D",
+      "name": "🐟4K-HDR｜C",
       "type": 3,
       "jar": "http://luoye.shop/b.jar;md5;bb155c3f0133bbce4756ad52003f5968",
       "api": "csp_XBPQ",
@@ -111,7 +117,7 @@
     },
     {
       "key": "夜猫",
-      "name": "4K-HDR🐟Y",
+      "name": "🐟4K-HDR｜D",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "http://luoye.shop/b.jar;md5;bb155c3f0133bbce4756ad52003f5968",
@@ -228,6 +234,127 @@
       "api": "csp_UpYun",
       "ext": "http://127.0.0.1:9978/file/tvfan/token.json",
       "jar": "./jar/sx.txt"
+    },
+    {
+      "key": "Upyunso",
+      "name": "♥云搜｜4K",
+      "type": 3,
+      "api": "csp_Upyunso",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://127.0.0.1:9978/file/TVBox/tok.txt",
+      "jar":"./jar/og1129.php;md5;4ebdfa80cc9c36349563afa7aa2acf49"
+    },
+    {
+      "key": "AliPS",
+      "name": "♥盘搜｜4K",
+      "type": 3,
+      "api": "csp_AliPS",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://127.0.0.1:9978/file/TVBox/tok.txt",
+      "jar":"./jar/og1129.php;md5;4ebdfa80cc9c36349563afa7aa2acf49"
+    },
+    {
+      "key": "Yisou",
+      "name": "♥易搜｜4K",
+      "type": 3,
+      "api": "csp_Yisou",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://127.0.0.1:9978/file/TVBox/tok.txt",
+      "jar":"./jar/og1129.php;md5;4ebdfa80cc9c36349563afa7aa2acf49"
+    },
+    {
+      "key": "Gitcafe",
+      "name": "♥小纸条｜4K",
+      "type": 3,
+      "api": "csp_Gitcafe",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://127.0.0.1:9978/file/TVBox/tok.txt",
+      "jar":"./jar/og1129.php;md5;4ebdfa80cc9c36349563afa7aa2acf49"
+    },
+    {
+      "key": "七夜",
+      "name": "💖七夜｜4K",
+      "type": 3,
+      "api": "csp_Dovx",
+      "searchable": 1,
+      "changeable": 0,
+      "jar":"./jar/og1129.php;md5;4ebdfa80cc9c36349563afa7aa2acf49"
+    },
+    {
+      "key": "易搜",
+      "name": "💖易搜｜4K",
+      "type": 3,
+      "api": "csp_YiSo",
+      "searchable": 1,
+      "changeable": 0,
+      "jar":"./jar/og1129.php;md5;4ebdfa80cc9c36349563afa7aa2acf49"
+    },
+    {
+      "key": "雲搜",
+      "name": "💖云搜｜4K",
+      "type": 3,
+      "api": "csp_UpYun",
+      "searchable": 1,
+      "changeable": 0,
+      "jar":"./jar/og1129.php;md5;4ebdfa80cc9c36349563afa7aa2acf49"
+    },
+    {
+      "key": "盤搜",
+      "name": "💖盘搜｜4K",
+      "type": 3,
+      "api": "csp_PanSou",
+      "searchable": 1,
+      "changeable": 0,
+      "jar":"./jar/og1129.php;md5;4ebdfa80cc9c36349563afa7aa2acf49"
+    },
+    {
+      "key": "紙條搜",
+      "name": "💖紙條｜4K",
+      "type": 3,
+      "api": "csp_XiaoZhiTiao",
+      "searchable": 1,
+      "changeable": 0,
+      "jar":"./jar/og1129.php;md5;4ebdfa80cc9c36349563afa7aa2acf49"
+    },
+    {
+      "key": "盤搜索",
+      "name": "💖PanS｜4K",
+      "type": 3,
+      "api": "csp_PanSearch",
+      "searchable": 1,
+      "changeable": 0,
+      "jar":"./jar/og1129.php;md5;4ebdfa80cc9c36349563afa7aa2acf49"
+    },
+    {
+      "key": "找資源",
+      "name": "💖找片｜4K",
+      "type": 3,
+      "api": "csp_Zhaozy",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": "$$$test2$$$test2",
+      "jar":"./jar/og1129.php;md5;4ebdfa80cc9c36349563afa7aa2acf49"
+    },
+    {
+      "key": "玩偶",
+      "name": "💖玩偶｜4K",
+      "type": 3,
+      "api": "csp_Wogg",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": {
+        "token": "影視天下第一",
+        "filter": "./json/wogg.json"
+      },
+      "jar": "https://tvbox.cainisi.cf/jar/fm1124.jar;md5;1117603a248d03a2fba94c991612970f"
     },
     {
       "key": "csp_Anime1",
