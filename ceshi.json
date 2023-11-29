@@ -1,5 +1,5 @@
 {
-  "spider":""./jar/fan1.txt;md5;ea2690fc66083afe1431071968e60395",
+  "spider":"./jar/moyu.jar",
   "wallpaper":"https://api.likepoems.com/img/bing",
   "warningText":"摸鱼儿：资源来自网络，无盈利，纯技术分享，如有冒犯请联系删除。[所有内容仅供学习使用，请勿用于违法及商业用途，请勿付费购买]",
 "sites":[
@@ -10,7 +10,9 @@
       "api": "csp_DouDou",
       "searchable": 0,
       "quickSearch": 0,
-      "filterable": 0
+      "filterable": 0,
+      "jar":"./jar/fan.txt",
+      "ext": "364c0f012e73a8801a69900fc25ae9c1"
     },
     {
       "key": "Wobg",
@@ -320,6 +322,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "changeable": 0,
+      "jar":"./jar/fan1.txt;md5;ea2690fc66083afe1431071968e60395",
       "ext": "https://fanty.run.goorm.site/ext/bilibili.json"
     },
     {
@@ -334,6 +337,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "changeable": 0,
+      "jar":"./jar/fan1.txt;md5;ea2690fc66083afe1431071968e60395",
       "ext": "https://fanty.run.goorm.site/ext/biliych.json"
     },
     {
@@ -511,6 +515,28 @@
         "分类url": "https://rebozj.pro/show/{cateId}--{area}------{catePg}---{year}.html;;a",
         "跳转播放链接": "urlDecode(vod_class*url\":\"&&\")"
       }
+    },
+    {
+      "key": "极速播",
+      "name": "🐟极速┃APP",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.gsjtlxy.top/xgapp.php/v3/",
+      "jar": "./jar/ogjar1.php;md5;550a6ae1d050d7f8b1bf3b715d1f5277"
+    },
+    {
+      "key": "瑞丰",
+      "name": "🐟辣辣┃APP",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://www.miniku.cc/xgapp.php/v2/",
+      "jar": "./jar/ogjar1.php;md5;550a6ae1d050d7f8b1bf3b715d1f5277"
     },
     {
       "key": "csp_Czsapp",
@@ -966,7 +992,8 @@
       },
       "searchable": 0,
       "quickSearch": 0,
-      "changeable": 0
+      "changeable": 0,
+      "jar":"./jar/fan1.txt;md5;ea2690fc66083afe1431071968e60395"
     },
     {
       "key": "少儿教育",
@@ -980,7 +1007,8 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://fanty.run.goorm.site/ext/少儿教育.json"
+      "ext": "https://fanty.run.goorm.site/ext/少儿教育.json",
+      "jar":"./jar/fan1.txt;md5;ea2690fc66083afe1431071968e60395"
     },
     {
       "key": "小学课堂",
@@ -994,7 +1022,8 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://fanty.run.goorm.site/ext/小学课堂.json"
+      "ext": "https://fanty.run.goorm.site/ext/小学课堂.json",
+      "jar":"./jar/fan1.txt;md5;ea2690fc66083afe1431071968e60395"
     },
     {
       "key": "初中课堂",
@@ -1008,7 +1037,8 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://fanty.run.goorm.site/ext/初中课堂.json"
+      "ext": "https://fanty.run.goorm.site/ext/初中课堂.json",
+      "jar":"./jar/fan1.txt;md5;ea2690fc66083afe1431071968e60395"
     },
     {
       "key": "高中教育",
@@ -1022,7 +1052,8 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://fanty.run.goorm.site/ext/高中课堂.json"
+      "ext": "https://fanty.run.goorm.site/ext/高中课堂.json",
+      "jar":"./jar/fan1.txt;md5;ea2690fc66083afe1431071968e60395"
     },
     {
       "key": "cc1",
