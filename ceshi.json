@@ -14,7 +14,7 @@
     },
     {
       "key": "荐片",
-      "name": "摸摸🐟｜11.29更新",
+      "name": "摸摸🐟｜11.30更新",
       "type": 3,
       "api": "csp_Jianpian",
       "playerType": 1,
@@ -498,16 +498,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0
-    },
-    {
-      "key":"KK",
-      "name":"🐟康康|APP",
-      "type":3,
-      "api":"csp_Kuaikan",
-      "searchable":1,
-      "quickSearch":1,
-      "filterable":1,
-      "jar":"./jar/康康.jar"
     },
     {
       "key": "繁星",
@@ -1120,7 +1110,7 @@
       "jar":"./jar/fan1.txt;md5;ea2690fc66083afe1431071968e60395"
     },
     {
-      "key": "push_agent",
+      "key": "push_agent0",
       "name": "数据源于互联网搜索｜仅供测试",
       "type": 3,
       "api": "csp_Push",
@@ -1130,7 +1120,7 @@
       "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt"
     },
     {
-      "key": "push_agent",
+      "key": "push_agent1",
       "name": "QQ群536992286｜请于24小时内删除测试内容",
       "type": 3,
       "api": "csp_Push",
@@ -1140,7 +1130,7 @@
       "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt"
     },
     {
-      "key": "push_agent",
+      "key": "push_agent2",
       "name": "使用教程更新公告|关注夕颜社区",
       "type": 3,
       "api": "csp_Push",
