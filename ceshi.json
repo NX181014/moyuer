@@ -161,6 +161,17 @@
       "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"
     },
     {
+      "key": "js_4KHDR",
+      "name": "❤️4K-HDR｜玩偶姐姐",
+      "type": 3,
+      "api": "http://qrh.yimkj.cn/ym/lib/apiv15drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://qrh.yimkj.cn/ym/lib/4KHDR.js",
+      "jar": "./jar/ym1130.jar;md5;md5;D42CC8D191481FC9BEEB1BFF4BC747CB"
+    },
+    {
       "key": "csp_XYQHikerdyx",
       "name": "❤️4K-HDR｜电影港",
       "type": 3,
@@ -337,6 +348,86 @@
       "jar": "https://tvbox.cainisi.cf/jar/fm1124.jar;md5;1117603a248d03a2fba94c991612970f"
     },
     {
+      "key": "SeedHub",
+      "name": "🧲SeedHub|磁力",
+      "type": 3,
+      "api": "csp_SeedHub",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "./jar/ogjar.php;md5;4ebdfa80cc9c36349563afa7aa2acf49"
+    },
+    {
+      "key": "js_6V",
+      "name": "🧲六维|磁力",
+      "type": 3,
+      "api": "http://qrh.yimkj.cn/ym/lib/apiv15drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://qrh.yimkj.cn/ym/lib/6V.js",
+    },
+    {
+      "key": "js_磁力熊",
+      "name": "🧲Bear|磁力",
+      "type": 3,
+      "api": "http://qrh.yimkj.cn/ym/lib/apiv15drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://qrh.yimkj.cn/ym/lib/bear.js"
+    },
+    {
+      "key": "美剧迷",
+      "name": "🧲美剧|磁力",
+      "type": 3,
+      "api": "csp_MeijuMi",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "./jar/ogjar.php;md5;4ebdfa80cc9c36349563afa7aa2acf49"
+    },
+    {
+      "key": "迅雷吧",
+      "name": "🧲迅雷|磁力",
+      "type": 3,
+      "api": "csp_Xunlei8",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "./jar/ogjar.php;md5;4ebdfa80cc9c36349563afa7aa2acf49"
+    },
+    {
+      "key": "Mp4电影",
+      "name": "🧲Mp4|磁力",
+      "type": 3,
+      "api": "csp_Mp4Mov",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "./jar/ogjar.php;md5;4ebdfa80cc9c36349563afa7aa2acf49"
+    },
+    {
+      "key": "酷吧电影",
+      "name": "🧲酷吧|磁力",
+      "type": 3,
+      "api": "csp_KubaCL",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "./jar/ogjar.php;md5;4ebdfa80cc9c36349563afa7aa2acf49"
+    },
+    {
+      "key": "美剧天堂",
+      "name": "🧲美剧|磁力",
+      "type": 3,
+      "api": "csp_MeijuTT",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "./jar/ogjar.php;md5;4ebdfa80cc9c36349563afa7aa2acf49"
+    },
+    {
       "key": "csp_Anime1",
       "name": "🐟高燃日漫",
       "type": 3,
@@ -387,6 +478,17 @@
       "filterable": 1,
       "ext": "https://www.yingm.cc/dm/json/去看吧.json",
       "jar":"https://jihulab.com/clear1/yingmi/-/raw/main/jar/fan.jar"
+    },
+    {
+      "key": "py_cctv",
+      "name": "🐟央视大全",
+      "type": 3,
+      "api": "py_cctv",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "http://qrh.yimkj.cn/ym/lib/cctv.py",
+      "jar": "./jar/ym1130.jar;md5;md5;D42CC8D191481FC9BEEB1BFF4BC747CB"
     },
     {
       "key": "MV_vod",
@@ -872,66 +974,6 @@
       ]
     },
     {
-      "key": "SeedHub",
-      "name": "🧲SeedHub|磁力",
-      "type": 3,
-      "api": "csp_SeedHub",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "./jar/ogjar.php;md5;4ebdfa80cc9c36349563afa7aa2acf49"
-    },
-    {
-      "key": "美剧迷",
-      "name": "🧲美剧|磁力",
-      "type": 3,
-      "api": "csp_MeijuMi",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "./jar/ogjar.php;md5;4ebdfa80cc9c36349563afa7aa2acf49"
-    },
-    {
-      "key": "迅雷吧",
-      "name": "🧲迅雷|磁力",
-      "type": 3,
-      "api": "csp_Xunlei8",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "./jar/ogjar.php;md5;4ebdfa80cc9c36349563afa7aa2acf49"
-    },
-    {
-      "key": "Mp4电影",
-      "name": "🧲Mp4|磁力",
-      "type": 3,
-      "api": "csp_Mp4Mov",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "./jar/ogjar.php;md5;4ebdfa80cc9c36349563afa7aa2acf49"
-    },
-    {
-      "key": "酷吧电影",
-      "name": "🧲酷吧|磁力",
-      "type": 3,
-      "api": "csp_KubaCL",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "./jar/ogjar.php;md5;4ebdfa80cc9c36349563afa7aa2acf49"
-    },
-    {
-      "key": "美剧天堂",
-      "name": "🧲美剧|磁力",
-      "type": 3,
-      "api": "csp_MeijuTT",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "./jar/ogjar.php;md5;4ebdfa80cc9c36349563afa7aa2acf49"
-    },
-    {
       "key": "短剧网",
       "name": "💚短剧网",
       "type": 3,
@@ -1033,6 +1075,28 @@
         "分类url": "https://www.psmp3.com/{cateId}/{catePg}.html;;av",
         "分类": "袁阔成$ykc#单田芳$stf#田连元$tly#刘兰芳$llf#连丽如$llr#张少佐$zsz#田战义$tzy"
       }
+    },
+    {
+      "key": "js_baby",
+      "name": "👶┃宝宝合集",
+      "type": 3,
+      "api": "http://qrh.yimkj.cn/ym/lib/apiv15drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://qrh.yimkj.cn/ym/lib/baby.js",
+      "jar": "./jar/ym1130.jar;md5;md5;D42CC8D191481FC9BEEB1BFF4BC747CB"
+    },
+    {
+      "key": "js_童趣",
+      "name": "👶童趣搜视",
+      "type": 3,
+      "api": "http://qrh.yimkj.cn/ym/lib/apiv15drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://qrh.yimkj.cn/ym/lib/tongqu.js",
+      "jar": "./jar/ym1130.jar;md5;md5;D42CC8D191481FC9BEEB1BFF4BC747CB"
     },
     {
       "key": "dr_兔小贝",
