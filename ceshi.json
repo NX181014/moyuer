@@ -215,14 +215,6 @@
       "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt+4k|fhd|auto"
     },
     {
-      "key": "UP云搜",
-      "name": "❤️4K-HDR｜云搜",
-      "type": 3,
-      "api": "csp_UpYun",
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.json",
-      "jar": "./jar/sx.txt"
-    },
-    {
       "key": "七夜",
       "name": "❤️4K-HDR｜七夜",
       "type": 3,
@@ -395,15 +387,6 @@
       "filterable": 1,
       "ext": "https://www.yingm.cc/dm/json/去看吧.json",
       "jar":"https://jihulab.com/clear1/yingmi/-/raw/main/jar/fan.jar"
-    },
-    {
-      "key": "異界",
-      "name": "🐟异界动漫",
-      "type": 3,
-      "api": "csp_Ysj",
-      "searchable": 1,
-      "changeable": 1,
-      "jar": "./jar/ogjar.php;md5;4ebdfa80cc9c36349563afa7aa2acf49"
     },
     {
       "key": "MV_vod",
@@ -1137,40 +1120,34 @@
       "jar":"./jar/fan1.txt;md5;ea2690fc66083afe1431071968e60395"
     },
     {
-      "key": "cc1",
-      "name": "数据源于互联网搜索｜仅供测试┃切勿相信接口广告",
+      "key": "push_agent",
+      "name": "数据源于互联网搜索｜仅供测试",
       "type": 3,
-      "api": "csp_XPath",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
+      "api": "csp_Push",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt"
     },
     {
-      "key": "cc2",
+      "key": "push_agent",
       "name": "QQ群536992286｜请于24小时内删除测试内容",
       "type": 3,
-      "api": "csp_XPath",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
+      "api": "csp_Push",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt"
     },
     {
-      "key": "cc3",
+      "key": "push_agent",
       "name": "使用教程更新公告|关注夕颜社区",
       "type": 3,
-      "api": "csp_XPath",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
-    },
-    {
-      "key": "cc4",
-      "name": "摸鱼儿免费分享|禁止贩卖",
-      "type": 3,
-      "api": "csp_XPath",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 0
+      "api": "csp_Push",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt"
     }
 ],
   "lives": [
