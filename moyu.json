@@ -31,7 +31,7 @@
      "searchable":1,
      "filterable": 0, 
      "changeable":0,
-     "jar":"./jar/alisz.jar"
+     "jar":"./jar/alisz.jar",
      "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt"
     },
     {
