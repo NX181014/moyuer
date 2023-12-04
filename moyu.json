@@ -27,8 +27,8 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "http://127.0.0.1:9978/file/TVBox/tok.txt",
-      "jar":"./jar/ogal.jar;md5;60c4f067b59fb7dd4683564525cc96d1"
+      "jar": "./jar/ogal.jar;md5;60c4f067b59fb7dd4683564525cc96d1",
+      "ext": "http://127.0.0.1:9978/file/TVBox/tok.txt"
     },
     {
      "key": "csp_KungFu404",
