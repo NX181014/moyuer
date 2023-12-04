@@ -28,7 +28,7 @@
       "quickSearch": 0,
       "filterable": 0,
       "ext": "http://127.0.0.1:9978/file/TVBox/tok.txt",
-      "jar":"./jar/og1204.php;md5;33d3bd8c68d552c00020abface9ef61b"
+      "jar":"ogal.jar;md5;60c4f067b59fb7dd4683564525cc96d1"
     },
     {
      "key": "csp_KungFu404",
@@ -134,7 +134,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "http://127.0.0.1:9978/file/TVBox/tok.txt",
-      "jar":"./jar/og1204.php;md5;33d3bd8c68d552c00020abface9ef61b"
+      "jar":"./jar/og1204.jar;md5;33d3bd8c68d552c00020abface9ef61b"
     },
     {
       "key": "Yisou",
@@ -145,7 +145,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "http://127.0.0.1:9978/file/TVBox/tok.txt",
-      "jar":"./jar/og1204.php;md5;33d3bd8c68d552c00020abface9ef61b"
+      "jar":"./jar/og1204.jar;md5;33d3bd8c68d552c00020abface9ef61b"
     },
     {
       "key": "Upyunso",
@@ -156,7 +156,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "http://127.0.0.1:9978/file/TVBox/tok.txt",
-      "jar":"./jar/og1204.php;md5;33d3bd8c68d552c00020abface9ef61b"
+      "jar":"./jar/og1204.jar;md5;33d3bd8c68d552c00020abface9ef61b"
     },
     {
       "key": "Gitcafe",
@@ -167,7 +167,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://127.0.0.1:9978/file/TVBox/tok.txt",
-      "jar":"./jar/og1204.php;md5;33d3bd8c68d552c00020abface9ef61b"
+      "jar":"./jar/og1204.jar;md5;33d3bd8c68d552c00020abface9ef61b"
     },
     {
       "key": "易搜",
@@ -176,7 +176,7 @@
       "api": "csp_YiSo",
       "searchable": 1,
       "changeable": 0,
-      "jar":"./jar/og1204.php;md5;33d3bd8c68d552c00020abface9ef61b"
+      "jar":"./jar/og1204.jar;md5;33d3bd8c68d552c00020abface9ef61b"
     },
     {
       "key": "雲搜",
@@ -185,7 +185,7 @@
       "api": "csp_UpYun",
       "searchable": 1,
       "changeable": 0,
-      "jar":"./jar/og1204.php;md5;33d3bd8c68d552c00020abface9ef61b"
+      "jar":"./jar/og1204.jar;md5;33d3bd8c68d552c00020abface9ef61b"
     },
     {
       "key": "盤搜",
@@ -194,7 +194,7 @@
       "api": "csp_PanSou",
       "searchable": 1,
       "changeable": 0,
-      "jar":"./jar/og1204.php;md5;33d3bd8c68d552c00020abface9ef61b"
+      "jar":"./jar/og1204.jar;md5;33d3bd8c68d552c00020abface9ef61b"
     },
     {
       "key": "紙條搜",
@@ -203,7 +203,7 @@
       "api": "csp_XiaoZhiTiao",
       "searchable": 1,
       "changeable": 0,
-      "jar":"./jar/og1204.php;md5;33d3bd8c68d552c00020abface9ef61b"
+      "jar":"./jar/og1204.jar;md5;33d3bd8c68d552c00020abface9ef61b"
     },
     {
       "key": "盤搜索",
@@ -212,7 +212,7 @@
       "api": "csp_PanSearch",
       "searchable": 1,
       "changeable": 0,
-      "jar":"./jar/og1204.php;md5;33d3bd8c68d552c00020abface9ef61b"
+      "jar":"./jar/og1204.jar;md5;33d3bd8c68d552c00020abface9ef61b"
     },
     {
       "key": "找資源",
@@ -222,7 +222,7 @@
       "searchable": 1,
       "changeable": 0,
       "ext": "$$$test2$$$test2",
-      "jar":"./jar/og1204.php;md5;33d3bd8c68d552c00020abface9ef61b"
+      "jar":"./jar/og1204.jar;md5;33d3bd8c68d552c00020abface9ef61b"
     },
     {
       "key": "玩偶",
