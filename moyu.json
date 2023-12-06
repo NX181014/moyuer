@@ -14,7 +14,7 @@
     },
     {
       "key": "荐片",
-      "name": "摸摸🐟｜12.04更新",
+      "name": "摸摸🐟｜12.06更新",
       "type": 3,
       "api": "https://fanty.run.goorm.site/ext/js/drpy2.min.js",
       "ext": "https://fanty.run.goorm.site/ext/jp.js"
@@ -27,8 +27,8 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "jar": "./jar/ogal.jar;md5;60c4f067b59fb7dd4683564525cc96d1",
-      "ext": "http://127.0.0.1:9978/file/TVBox/tok.txt"
+      "ext": "http://127.0.0.1:9978/file/TVBox/tok.txt",
+      "jar":"./jar/og1204.php;md5;33d3bd8c68d552c00020abface9ef61b"
     },
     {
      "key": "csp_KungFu404",
@@ -51,6 +51,17 @@
       "jar": "./jar/moyu应用市场.jar"
     },
     {
+      "key": "alist",
+      "name": "摸摸🐟小鸭网盘",
+      "type": 3,
+      "api": "csp_AList",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://alist.xn--z7x900a.live/alist.json",
+      "jar": "./jar/PandaQ231205.jar;md5;9cc29f6286b2fe7910628852929c4bdb"
+    },
+    {
       "key": "csp_WoGG",
       "name": "4K-HDR🐟玩偶弹幕",
       "type": 3,
@@ -61,15 +72,11 @@
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+auto|4k|fhd$$$https://api.wogg.xyz/$$$弹"
     },
     {
-      "key": "影探VIP",
+      "key": "影探",
       "name": "4K-HDR🐟影探",
       "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://vipcms.lyyytv.cn/api.php/app/",
-      "jar":"./jar/pandaQ231115.jar;md5;cb2a84ff515a9d54fc7590bb56d62f04"
+      "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
+      "ext": "https://d.kstore.space/download/6296/js/yt.js"
     },
     {
       "key": "YiSo",
@@ -134,7 +141,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "http://127.0.0.1:9978/file/TVBox/tok.txt",
-      "jar":"./jar/og1204.jar;md5;33d3bd8c68d552c00020abface9ef61b"
+      "jar":"./jar/og1204.php;md5;33d3bd8c68d552c00020abface9ef61b"
     },
     {
       "key": "Yisou",
@@ -145,7 +152,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "http://127.0.0.1:9978/file/TVBox/tok.txt",
-      "jar":"./jar/og1204.jar;md5;33d3bd8c68d552c00020abface9ef61b"
+      "jar":"./jar/og1204.php;md5;33d3bd8c68d552c00020abface9ef61b"
     },
     {
       "key": "Upyunso",
@@ -156,7 +163,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "http://127.0.0.1:9978/file/TVBox/tok.txt",
-      "jar":"./jar/og1204.jar;md5;33d3bd8c68d552c00020abface9ef61b"
+      "jar":"./jar/og1204.php;md5;33d3bd8c68d552c00020abface9ef61b"
     },
     {
       "key": "Gitcafe",
@@ -167,7 +174,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://127.0.0.1:9978/file/TVBox/tok.txt",
-      "jar":"./jar/og1204.jar;md5;33d3bd8c68d552c00020abface9ef61b"
+      "jar":"./jar/og1204.php;md5;33d3bd8c68d552c00020abface9ef61b"
     },
     {
       "key": "易搜",
@@ -176,7 +183,7 @@
       "api": "csp_YiSo",
       "searchable": 1,
       "changeable": 0,
-      "jar":"./jar/og1204.jar;md5;33d3bd8c68d552c00020abface9ef61b"
+      "jar":"./jar/og1204.php;md5;33d3bd8c68d552c00020abface9ef61b"
     },
     {
       "key": "雲搜",
@@ -185,7 +192,7 @@
       "api": "csp_UpYun",
       "searchable": 1,
       "changeable": 0,
-      "jar":"./jar/og1204.jar;md5;33d3bd8c68d552c00020abface9ef61b"
+      "jar":"./jar/og1204.php;md5;33d3bd8c68d552c00020abface9ef61b"
     },
     {
       "key": "盤搜",
@@ -194,7 +201,7 @@
       "api": "csp_PanSou",
       "searchable": 1,
       "changeable": 0,
-      "jar":"./jar/og1204.jar;md5;33d3bd8c68d552c00020abface9ef61b"
+      "jar":"./jar/og1204.php;md5;33d3bd8c68d552c00020abface9ef61b"
     },
     {
       "key": "紙條搜",
@@ -203,7 +210,7 @@
       "api": "csp_XiaoZhiTiao",
       "searchable": 1,
       "changeable": 0,
-      "jar":"./jar/og1204.jar;md5;33d3bd8c68d552c00020abface9ef61b"
+      "jar":"./jar/og1204.php;md5;33d3bd8c68d552c00020abface9ef61b"
     },
     {
       "key": "盤搜索",
@@ -212,7 +219,7 @@
       "api": "csp_PanSearch",
       "searchable": 1,
       "changeable": 0,
-      "jar":"./jar/og1204.jar;md5;33d3bd8c68d552c00020abface9ef61b"
+      "jar":"./jar/og1204.php;md5;33d3bd8c68d552c00020abface9ef61b"
     },
     {
       "key": "找資源",
@@ -222,7 +229,7 @@
       "searchable": 1,
       "changeable": 0,
       "ext": "$$$test2$$$test2",
-      "jar":"./jar/og1204.jar;md5;33d3bd8c68d552c00020abface9ef61b"
+      "jar":"./jar/og1204.php;md5;33d3bd8c68d552c00020abface9ef61b"
     },
     {
       "key": "玩偶",
@@ -246,6 +253,38 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": "FbjDcUxPqpfNr0QF4QvE6sExbcJUCYdIVisPtbeywENfScyc6nTW0F+D7rX5HCm9c3SL03FsmGsmXS04XZMlbxEVW4/ZgwONbnobxj8KxeRpXqDxCWghfAf9JSR025yi92eOKqE9HokX9QQnl1WsU21CR4+dlEMDEsADd1xFGiiGtsh0vqJFAf41Z7sYL00hBBNM3xJsYyXCuX4BrzNYpZRwmcnwnXIHe2MtwbsJf0IAs6yM+y/ub+niyxOc2YuPbc/VUS4DGPqzelIi6plLWFvZ8+j2xcvAgopZxZFhBkIYCIIC5Uec/JW8RgW9WV1SKntGcmcd5yjIpagsmpXymH3a+FKzHKMB3LvXmR6onijWkP0VpivFgVVfjWrik4Yr0ZjZxKFA0uPQvy9l9EjPMNrQIj0sZjnpv7JmoMO+HfQ+lqKhJrQFq4MooyyGv6yhNv12IOHay3A="
+    },
+    {
+      "key": "bttwo",
+      "name": "1080P🐟bttwo",
+      "type": 3,
+      "playerType": "2",
+      "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
+      "ext": "https://d.kstore.space/download/6296/js/两个BT.js"
+    },
+    {
+      "key": "Libvio",
+      "name": "1080P🐟Libvio",
+      "type": 3,
+      "playerType": "1",
+      "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
+      "ext": "https://d.kstore.space/download/6296/js/LIBVIO.js"
+    },
+    {
+      "key": "奇优",
+      "name": "1080P🐟奇优",
+      "type": 3,
+      "playerType": "2",
+      "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
+      "ext": "https://d.kstore.space/download/6296/js/奇优.js"
+    },
+    {
+      "key": "虎虎",
+      "name": "1080P🐟虎虎",
+      "type": 3,
+      "api": "csp_Panda",
+      "ext": "./json/huhu.json",
+      "jar": "./jar/PandaQ231205.jar;md5;9cc29f6286b2fe7910628852929c4bdb"
     },
     {
       "key": "龟龟",
@@ -343,6 +382,15 @@
       }
     },
     {
+      "key": "路人",
+      "name": "1080P🐟路人",
+      "api": "csp_AppYs",
+      "type": 3,
+      "playerType": "2",
+      "ext": "http://app.huahai.pro/ruifenglb_api.php/v1.vod",
+      "jar": "./jar/PandaQ231205.jar;md5;9cc29f6286b2fe7910628852929c4bdb"
+    },
+    {
       "key": "小小",
       "name": "1080P🐟小小",
       "type": 3,
@@ -351,6 +399,14 @@
       "quickSearch": 1,
       "changeable": 1,
       "ext": "FbjPcVZY48PN/RIZ5UWFrsgwaYYVSsIJD3UWs7i4yk1XUNSIsT3IgxCP9qyzByO7ZnqW3G0tjmslTGNlCJx9KFpYWdSQ0BTcKTlG3CAclaw3AOm0fS9oLx2taGFrzpf9uSKPPIBwToF3pEZBvQOlHhoMMOnm4EsAMpVefSVfagul7fFS8qxdQvcqdulXNwxSXwVqwgY9fgGounx/txZHh9k8mqD6nFJaZH0GwpEpXmVLgQ=="
+    },
+    {
+      "key": "FREE1OK",
+      "name": "1080P🐟free",
+      "type": 3,
+      "playerType": "1",
+      "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
+      "ext": "https://d.kstore.space/download/6296/js/FreeOK.js"
     },
     {
       "key": "一起看 ",
@@ -371,6 +427,14 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": "FbjDcUxPqpfNr0QF4QvE6sExbd4UXJxJXzdL462ywU1XScGa5G6Hj0/c+Ou1GW6rdX6N2XIhnD46QzIsRoZ8bk4fG4OYi0iCaWwRj2ddkacwFqHtLjQhalHqIy0+kpiTvmeOfJYxTshgrxcJ+g3lEHx7ZLC9kB1TCfZUSHwqHB3tt6V/1OhRENIOZNRFfXVBEFd7jQg+J06kjCAF7z1Bt8hRvMjC2VcbQXsEz8MCZDgu06C9/wirWcTa/wWJsfT+Z7fXbg8ZeqKSLCRI+/RRQBPc6vWx9MDProlGxbNkNVwDJ+xZqA3LjZmRIzHgX1pPRHIeXgUD1SnKnP50u+DrnDvAnzqAN4YbvKvEmRyu91mw5dothweuk0B210O5i9VKs/rU4uU1g5i9+xgl5lyke5uYNicyRgauyPMi/PGzF6pDzMihKbgasc93/HnGr6W4LuZjf6eYnS2GgRzWRE0fT5kOayt6Ra40Irmh/M2AvZsLJYWpGzIW"
+    },
+    {
+      "key": "新视觉",
+      "name": "1080P🐟视觉",
+      "type": 3,
+      "playerType": "2",
+      "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
+      "ext": "https://d.kstore.space/download/6296/js/新视觉.js"
     },
     {
       "key": "爱看",
@@ -408,6 +472,14 @@
       }
     },
     {
+      "key": "007影视",
+      "name": "1080P🐟007",
+      "type": 3,
+      "playerType": "1",
+      "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
+      "ext": "https://d.kstore.space/download/6296/js/007.js"
+    },
+    {
       "key": "csp_77",
       "name": "1080P🐟七七",
       "type": 3,
@@ -432,6 +504,14 @@
         "搜索url": "https://www.dandanju.cc/search/{wd}----------1---.html",
         "搜索数组": "<li class=\"active clearfix&&</li"
       }
+    },
+    {
+      "key": "低端",
+      "name": "1080P🐟低端外剧",
+      "type": 3,
+      "playerType": "2",
+      "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
+      "ext": "https://d.kstore.space/download/6296/js/ddys.js"
     },
     {
       "key": "热播库",
@@ -872,17 +952,6 @@
         "分类": "微剧场$1#言情$6#逆袭$7#战神$8#异能$9#生活$10#重生$12#复仇$20#爱情$11"
       },
       "jar":"https://jihulab.com/sxtv/1020/-/raw/main/%E7%A6%81%E6%AD%A2%E8%B4%A9%E5%8D%96/sx.jar"
-    },
-    {
-      "key": "py_cctv",
-      "name": "🐟央视大全",
-      "type": 3,
-      "api": "py_cctv",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "http://qrh.yimkj.cn/ym/lib/cctv.py",
-      "jar": "./jar/ym1130.jar;md5;md5;D42CC8D191481FC9BEEB1BFF4BC747CB"
     },
     {
       "key": "MV_vod",
