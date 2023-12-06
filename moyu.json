@@ -1,4 +1,4 @@
-{
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              {
   "spider":"./jar/moyu1204.jar;md5;be6121b5c37471b191114027123912d2",
   "wallpaper":"http://饭太硬.top/深色壁纸/api.php",
   "warningText":"摸鱼儿：资源来自网络，无盈利，纯技术分享，如有冒犯请联系删除。[所有内容仅供学习使用，请勿用于违法及商业用途，请勿付费购买]",
@@ -553,7 +553,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar":"https://jihulab.com/clear1/yingmi/-/raw/main/jar/fan.jar"
+      "jar": "./jar/PandaQ231205.jar;md5;9cc29f6286b2fe7910628852929c4bdb"
     },
     {
       "key": "58动漫网",
@@ -994,6 +994,19 @@
       "changeable": 0,
       "jar":"./jar/fan1.txt;md5;ea2690fc66083afe1431071968e60395",
       "ext": "https://fanty.run.goorm.site/ext/biliych.json"
+    },
+    {
+      "key": "drpy_js_88看球",
+      "name": "🐟球赛直播",
+      "type": 3,
+      "api": "csp_Panda",
+      "changeable": 0,
+      "style": {
+        "type": "rect",
+        "ratio": 1
+      },
+      "ext": "https://d.kstore.space/download/6296/json/88看球.json",
+      "jar": "./jar/PandaQ231205.jar;md5;9cc29f6286b2fe7910628852929c4bdb"
     },
     {
       "key": "虎牙直播js",
