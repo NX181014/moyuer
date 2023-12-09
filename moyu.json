@@ -1,4 +1,4 @@
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              {
+{
   "spider":"./jar/moyu1204.jar;md5;be6121b5c37471b191114027123912d2",
   "wallpaper":"http://饭太硬.top/深色壁纸/api.php",
   "warningText":"摸鱼儿：资源来自网络，无盈利，纯技术分享，如有冒犯请联系删除。[所有内容仅供学习使用，请勿用于违法及商业用途，请勿付费购买]",
@@ -14,7 +14,7 @@
     },
     {
       "key": "荐片",
-      "name": "摸摸🐟｜12.07更新",
+      "name": "摸摸🐟｜12.09更新",
       "type": 3,
       "api": "https://fanty.run.goorm.site/ext/js/drpy2.min.js",
       "ext": "https://fanty.run.goorm.site/ext/jp.js"
@@ -293,6 +293,31 @@
       }
     },
     {
+      "key": "03影院",
+      "name": "1080P🐟03影院",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "http://luoye.shop/b.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+      "playerType": "1",
+      "ext": {
+        "主页url": "https://www.03yy.co",
+        "数组": "<div class=\"pic-content pic-width-2\">&&</div",
+        "副标题": "<span>&&</span>",
+        "简介": "<p&&</p>",
+        "导演": "导演：&&</div>",
+        "主演": "主演：&&</div>",
+        "搜索模式": "1",
+        "搜索url": "https://www.03yy.co/search.php?searchword={wd}",
+        "搜索副标题": "note\">&&</div>",
+        "搜索链接": "href=\"&&\"",
+        "线路二次截取": "<ul id=\"playlist\">&&</ul",
+        "线路数组": " <li&&li>",
+        "线路标题": ">&&<",
+        "分类url": "https://www.03yy.co/search.php?page={catePg}&searchtype=5&order=time&tid={cateId}&area={area}&year={year}",
+        "分类": "电影$1#电视剧$2#动漫$4#综艺$3"
+      }
+    },
+    {
       "key": "好戏",
       "name": "1080P🐟好戏",
       "type": 3,
@@ -375,16 +400,6 @@
       "jar": "./jar/PandaQ231205.jar;md5;9cc29f6286b2fe7910628852929c4bdb"
     },
     {
-      "key": "小小",
-      "name": "1080P🐟小小",
-      "type": 3,
-      "api": "csp_AppSK",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "FbjPcVZY48PN/RIZ5UWFrsgwaYYVSsIJD3UWs7i4yk1XUNSIsT3IgxCP9qyzByO7ZnqW3G0tjmslTGNlCJx9KFpYWdSQ0BTcKTlG3CAclaw3AOm0fS9oLx2taGFrzpf9uSKPPIBwToF3pEZBvQOlHhoMMOnm4EsAMpVefSVfagul7fFS8qxdQvcqdulXNwxSXwVqwgY9fgGounx/txZHh9k8mqD6nFJaZH0GwpEpXmVLgQ=="
-    },
-    {
       "key": "FREE1OK",
       "name": "1080P🐟free",
       "type": 3,
@@ -400,6 +415,16 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0
+    },
+    {
+      "key": "加速",
+      "name": "1080P🐟加速",
+      "type": 3,
+      "jar": "http://luoye.shop/b.jar;md5;bb155c3f0133bbce4756ad52003f5968",
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 1,
+      "ext": "http://m.hhssyyss.icu/ruifenglb_api.php/v1.vod"
     },
     {
       "key": "繁星",
