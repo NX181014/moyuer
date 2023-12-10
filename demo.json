@@ -79,6 +79,41 @@
       "ext": "https://d.kstore.space/download/6296/js/yt.js"
     },
     {
+      "key": "csp_search_Panda_pansearch",
+      "name": "4K-HDR🐟盘搜A",
+      "type": 3,
+      "api": "csp_Panda",
+      "ext": {
+        "数组": "flex flex-col items-start&&</div></div><div",
+        "标题": "名称：&&描述：",
+        "副标题": "发布时间：&&</p>",
+        "图片": "<img src=\"&&\"",
+        "链接": "href=\"&&\"",
+        "搜索url": "https://www.pansearch.me/search?keyword={wd}&pan=aliyundrive;;kS5",
+        "timeout": 30,
+        "changeable": 0,
+        "阿里token": ""
+      },
+        "jar": "./jar/PandaQ231205.jar;md5;9cc29f6286b2fe7910628852929c4bdb"
+    },
+    {
+      "key": "csp_search_Panda_盘搜",
+      "name": "4K-HDR🐟盘搜B",
+      "type": 3,
+      "api": "csp_Panda",
+      "ext": {
+        "标题": "<span*>&&</div>",
+        "副标题": "时间:&&格式",
+        "图片": "thumb=\"&&\"",
+        "链接": "/cv/+href=\"/s/&&\"",
+        "搜索url": "https://www.alipansou.com/search?page={pg}&k={wd}&s=0&t=7;;kS5",
+        "timeout": 30,
+        "changeable": 0,
+        "阿里token": ""
+      },
+        "jar": "./jar/PandaQ231205.jar;md5;9cc29f6286b2fe7910628852929c4bdb"
+    },
+    {
       "key": "YiSo",
       "name": "4K-HDR🐟易搜",
       "type": 3,
@@ -546,6 +581,109 @@
       }
     },
     {
+      "key": "csp_Anime1",
+      "name": "动漫🐟日漫",
+      "type": 3,
+      "api": "csp_Anime1",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "./jar/PandaQ231205.jar;md5;9cc29f6286b2fe7910628852929c4bdb"
+    },
+    {
+      "key": "58动漫网",
+      "name": "动漫🐟58",
+      "type": 3,
+      "api": "https://www.yingm.cc/dm/js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": "https://www.yingm.cc/dm/js/58动漫.js"
+    },
+    {
+      "key": "维奇",
+      "name": "动漫🐟维奇",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.yingm.cc/dm/json/维奇.json",
+      "jar": "https://jihulab.com/clear1/yingmi/-/raw/main/jar/fan.jar"
+    },
+    {
+      "key": "嘶哩嘶哩",
+      "name": "动漫🐟嘶哩",
+      "type": 3,
+      "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": "https://drpy.cainisi.cf/js/嘶哩嘶哩.js"
+    },
+    {
+      "key": "去看吧",
+      "name": "动漫🐟去看",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.yingm.cc/dm/json/去看吧.json",
+      "jar": "https://jihulab.com/clear1/yingmi/-/raw/main/jar/fan.jar"
+    },
+    {
+      "key": "csp_Czsapp",
+      "name": "🐟厂长┃直连",
+      "type": 3,
+      "api": "csp_Czsapp",
+      "playerType": 2,
+      "searchable": 1,
+      "changeable": 0,
+      "quickSearch": 1,
+      "ext": "https://www.czzy88.com/",
+      "filterable": 1
+    },
+    {
+      "key": "哔嘀",
+      "name": "🐟哔嘀┃直连",
+      "type": 3,
+      "api": "csp_Bdys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "./jar/ogjar.php;md5;4ebdfa80cc9c36349563afa7aa2acf49"
+    },
+    {
+      "key": "Auete",
+      "name": "🐟奥特直连",
+      "type": 3,
+      "api": "csp_Auete",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0
+    },
+    {
+      "key": "360_spider",
+      "name": "🐟360┃直连",
+      "type": 3,
+      "api": "csp_SP360",
+      "filterable": 1,
+      "quickSearch": 1,
+      "searchable": 1,
+      "jar": "./jar/ogjar.php;md5;4ebdfa80cc9c36349563afa7aa2acf49"
+    },
+    {
+      "key": "低端",
+      "name": "🐟低端┃直连",
+      "type": 3,
+      "api": "csp_Ddys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "./jar/ogjar.php;md5;4ebdfa80cc9c36349563afa7aa2acf49"
+    },
+    {
       "key": "py_cctvzh",
       "name": "📺央视综合",
       "type": 3,
@@ -666,109 +804,7 @@
       "ext": "https://agit.ai/l/o/raw/branch/o/o/py_cctvjs.py",
       "jar": "./jar/ys1211.jar;md5;3E92F56BD34DBC49F26EBCE77B845255"
     },
-    {
-      "key": "csp_Anime1",
-      "name": "动漫🐟日漫",
-      "type": 3,
-      "api": "csp_Anime1",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "./jar/PandaQ231205.jar;md5;9cc29f6286b2fe7910628852929c4bdb"
-    },
-    {
-      "key": "58动漫网",
-      "name": "动漫🐟58",
-      "type": 3,
-      "api": "https://www.yingm.cc/dm/js/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": "https://www.yingm.cc/dm/js/58动漫.js"
-    },
-    {
-      "key": "维奇",
-      "name": "动漫🐟维奇",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://www.yingm.cc/dm/json/维奇.json",
-      "jar": "https://jihulab.com/clear1/yingmi/-/raw/main/jar/fan.jar"
-    },
-    {
-      "key": "嘶哩嘶哩",
-      "name": "动漫🐟嘶哩",
-      "type": 3,
-      "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": "https://drpy.cainisi.cf/js/嘶哩嘶哩.js"
-    },
-    {
-      "key": "去看吧",
-      "name": "动漫🐟去看",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://www.yingm.cc/dm/json/去看吧.json",
-      "jar": "https://jihulab.com/clear1/yingmi/-/raw/main/jar/fan.jar"
-    },
-    {
-      "key": "csp_Czsapp",
-      "name": "🐟厂长┃直连",
-      "type": 3,
-      "api": "csp_Czsapp",
-      "playerType": 2,
-      "searchable": 1,
-      "changeable": 0,
-      "quickSearch": 1,
-      "ext": "https://www.czzy88.com/",
-      "filterable": 1
-    },
-    {
-      "key": "哔嘀",
-      "name": "🐟哔嘀┃直连",
-      "type": 3,
-      "api": "csp_Bdys",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "./jar/ogjar.php;md5;4ebdfa80cc9c36349563afa7aa2acf49"
-    },
-    {
-      "key": "Auete",
-      "name": "🐟奥特直连",
-      "type": 3,
-      "api": "csp_Auete",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0
-    },
-    {
-      "key": "360_spider",
-      "name": "🐟360┃直连",
-      "type": 3,
-      "api": "csp_SP360",
-      "filterable": 1,
-      "quickSearch": 1,
-      "searchable": 1,
-      "jar": "./jar/ogjar.php;md5;4ebdfa80cc9c36349563afa7aa2acf49"
-    },
-    {
-      "key": "低端",
-      "name": "🐟低端┃直连",
-      "type": 3,
-      "api": "csp_Ddys",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "./jar/ogjar.php;md5;4ebdfa80cc9c36349563afa7aa2acf49"
-    },
+
     {
       "key": "红牛资源",
       "name": "🎀红牛┃采集",
