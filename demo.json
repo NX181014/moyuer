@@ -1,8 +1,8 @@
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    {
-  "spider":"./jar/moyu1204.jar;md5;be6121b5c37471b191114027123912d2",
-  "wallpaper":"http://饭太硬.top/深色壁纸/api.php",
-  "warningText":"摸鱼儿：资源来自网络，无盈利，纯技术分享，如有冒犯请联系删除。[所有内容仅供学习使用，请勿用于违法及商业用途，请勿付费购买]",
-"sites":[
+{
+  "spider": "./jar/moyu1204.jar;md5;be6121b5c37471b191114027123912d2",
+  "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
+  "warningText": "摸鱼儿：资源来自网络，无盈利，纯技术分享，如有冒犯请联系删除。[所有内容仅供学习使用，请勿用于违法及商业用途，请勿付费购买]",
+  "sites": [
     {
       "key": "豆豆",
       "name": "摸摸🐟｜豆瓣推荐",
@@ -28,17 +28,17 @@
       "quickSearch": 0,
       "filterable": 0,
       "ext": "http://127.0.0.1:9978/file/TVBox/tok.txt",
-      "jar":"./jar/og1204.jar;md5;33d3bd8c68d552c00020abface9ef61b"
+      "jar": "./jar/og1204.jar;md5;33d3bd8c68d552c00020abface9ef61b"
     },
     {
-     "key": "csp_KungFu404",
-     "name":"摸摸🐟｜设置token",
-     "type": 3, 
-     "api": "csp_KungFu404", 
-     "searchable":1,
-     "filterable": 0, 
-     "changeable":0,
-     "jar":"./jar/alisz.jar"
+      "key": "csp_KungFu404",
+      "name": "摸摸🐟｜设置token",
+      "type": 3,
+      "api": "csp_KungFu404",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 0,
+      "jar": "./jar/alisz.jar"
     },
     {
       "key": "应用商店",
@@ -119,7 +119,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": " https://jihulab.com/sxtv/1020/-/raw/main/%E7%A6%81%E6%AD%A2%E8%B4%A9%E5%8D%96/json/电影港.json",
-      "jar":"https://jihulab.com/sxtv/1020/-/raw/main/%E7%A6%81%E6%AD%A2%E8%B4%A9%E5%8D%96/sx.jar"
+      "jar": "https://jihulab.com/sxtv/1020/-/raw/main/%E7%A6%81%E6%AD%A2%E8%B4%A9%E5%8D%96/sx.jar"
     },
     {
       "key": "Zhaozy",
@@ -141,7 +141,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "http://127.0.0.1:9978/file/TVBox/tok.txt",
-      "jar":"./jar/og1204.jar;md5;33d3bd8c68d552c00020abface9ef61b"
+      "jar": "./jar/og1204.jar;md5;33d3bd8c68d552c00020abface9ef61b"
     },
     {
       "key": "Yisou",
@@ -152,7 +152,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "http://127.0.0.1:9978/file/TVBox/tok.txt",
-      "jar":"./jar/og1204.jar;md5;33d3bd8c68d552c00020abface9ef61b"
+      "jar": "./jar/og1204.jar;md5;33d3bd8c68d552c00020abface9ef61b"
     },
     {
       "key": "Upyunso",
@@ -163,7 +163,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "http://127.0.0.1:9978/file/TVBox/tok.txt",
-      "jar":"./jar/og1204.jar;md5;33d3bd8c68d552c00020abface9ef61b"
+      "jar": "./jar/og1204.jar;md5;33d3bd8c68d552c00020abface9ef61b"
     },
     {
       "key": "Gitcafe",
@@ -174,7 +174,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://127.0.0.1:9978/file/TVBox/tok.txt",
-      "jar":"./jar/og1204.jar;md5;33d3bd8c68d552c00020abface9ef61b"
+      "jar": "./jar/og1204.jar;md5;33d3bd8c68d552c00020abface9ef61b"
     },
     {
       "key": "易搜",
@@ -183,7 +183,7 @@
       "api": "csp_YiSo",
       "searchable": 1,
       "changeable": 0,
-      "jar":"./jar/og1204.jar;md5;33d3bd8c68d552c00020abface9ef61b"
+      "jar": "./jar/og1204.jar;md5;33d3bd8c68d552c00020abface9ef61b"
     },
     {
       "key": "雲搜",
@@ -192,7 +192,7 @@
       "api": "csp_UpYun",
       "searchable": 1,
       "changeable": 0,
-      "jar":"./jar/og1204.jar;md5;33d3bd8c68d552c00020abface9ef61b"
+      "jar": "./jar/og1204.jar;md5;33d3bd8c68d552c00020abface9ef61b"
     },
     {
       "key": "盤搜",
@@ -201,7 +201,7 @@
       "api": "csp_PanSou",
       "searchable": 1,
       "changeable": 0,
-      "jar":"./jar/og1204.jar;md5;33d3bd8c68d552c00020abface9ef61b"
+      "jar": "./jar/og1204.jar;md5;33d3bd8c68d552c00020abface9ef61b"
     },
     {
       "key": "紙條搜",
@@ -210,7 +210,7 @@
       "api": "csp_XiaoZhiTiao",
       "searchable": 1,
       "changeable": 0,
-      "jar":"./jar/og1204.jar;md5;33d3bd8c68d552c00020abface9ef61b"
+      "jar": "./jar/og1204.jar;md5;33d3bd8c68d552c00020abface9ef61b"
     },
     {
       "key": "盤搜索",
@@ -219,7 +219,7 @@
       "api": "csp_PanSearch",
       "searchable": 1,
       "changeable": 0,
-      "jar":"./jar/og1204.jar;md5;33d3bd8c68d552c00020abface9ef61b"
+      "jar": "./jar/og1204.jar;md5;33d3bd8c68d552c00020abface9ef61b"
     },
     {
       "key": "找資源",
@@ -229,7 +229,7 @@
       "searchable": 1,
       "changeable": 0,
       "ext": "$$$test2$$$test2",
-      "jar":"./jar/og1204.jar;md5;33d3bd8c68d552c00020abface9ef61b"
+      "jar": "./jar/og1204.jar;md5;33d3bd8c68d552c00020abface9ef61b"
     },
     {
       "key": "玩偶",
@@ -545,116 +545,127 @@
         "跳转播放链接": "urlDecode(vod_class*url\":\"&&\")"
       }
     },
-            {
-            "key" : "py_cctvzh",
-            "name" : "📺央视综合 py",
-            "type" : 3,
-            "api" : "py_cctv",
-            "searchable" : 0,
-            "quickSearch" : 0,
-            "filterable" : 1,
-            "ext" : "https://agit.ai/l/o/raw/branch/o/o/py_cctvzh.py"
-        },
-            {
-            "key" : "py_cctvxw",
-            "name" : "📺央视新闻 py",
-            "type" : 3,
-            "api" : "py_cctv",
-            "searchable" : 0,
-            "quickSearch" : 0,
-            "filterable" : 1,
-            "ext" : "https://agit.ai/l/o/raw/branch/o/o/py_cctvxw.py"
-        },
-            {
-            "key" : "py_cctvzy",
-            "name" : "📺央视综艺 py",
-            "type" : 3,
-            "api" : "py_cctv",
-            "searchable" : 0,
-            "quickSearch" : 0,
-            "filterable" : 1,
-            "ext" : "https://agit.ai/l/o/raw/branch/o/o/py_cctvzy.py"
-        },
-            {
-            "key" : "py_cctvdy",
-            "name" : "📺央视电影 py",
-            "type" : 3,
-            "api" : "py_cctv",
-            "searchable" : 0,
-            "quickSearch" : 0,
-            "filterable" : 1,
-            "ext" : "https://agit.ai/l/o/raw/branch/o/o/py_cctvdy.py"
-        },
-            {
-            "key" : "py_cctvty",
-            "name" : "📺央视体育 py",
-            "type" : 3,
-            "api" : "py_cctv",
-            "searchable" : 0,
-            "quickSearch" : 0,
-            "filterable" : 1,
-            "ext" : "https://agit.ai/l/o/raw/branch/o/o/py_cctvty.py"
-        },
-            {
-            "key" : "py_cctvfz",
-            "name" : "📺央视法治 py",
-            "type" : 3,
-            "api" : "py_cctv",
-            "searchable" : 0,
-            "quickSearch" : 0,
-            "filterable" : 1,
-            "ext" : "https://agit.ai/l/o/raw/branch/o/o/py_cctv.py"
-        },
-            {
-            "key" : "py_cctvkj",
-            "name" : "📺央视科教 py",
-            "type" : 3,
-            "api" : "py_cctv",
-            "searchable" : 0,
-            "quickSearch" : 0,
-            "filterable" : 1,
-            "ext" : "https://agit.ai/l/o/raw/branch/o/o/py_cctvkj.py"
-        },
-            {
-            "key" : "py_cctvyy",
-            "name" : "📺央视音乐 py",
-            "type" : 3,
-            "api" : "py_cctv",
-            "searchable" : 0,
-            "quickSearch" : 0,
-            "filterable" : 1,
-            "ext" : "https://agit.ai/l/o/raw/branch/o/o/py_cctvyy.py"
-        },
-            {
-            "key" : "py_cctvse",
-            "name" : "📺央视少儿 py",
-            "type" : 3,
-            "api" : "py_cctv",
-            "searchable" : 0,
-            "quickSearch" : 0,
-            "filterable" : 1,
-            "ext" : "https://agit.ai/l/o/raw/branch/o/o/py_cctvse.py"
-        },
-            {
-            "key" : "py_cctvny",
-            "name" : "📺央视农业 py",
-            "type" : 3,
-            "api" : "py_cctv",
-            "searchable" : 0,
-            "quickSearch" : 0,
-            "filterable" : 1,
-            "ext" : "https://agit.ai/l/o/raw/branch/o/o/py_cctvny.py"
-        },
-            {
-            "key" : "py_cctvjs",
-            "name" : "📺央视军事 py",
-            "type" : 3,
-            "api" : "py_cctv",
-            "searchable" : 0,
-            "quickSearch" : 0,
-            "filterable" : 1,
-            "ext" : "https://agit.ai/l/o/raw/branch/o/o/py_cctvjs.py"
-        },
+    {
+      "key": "py_cctvzh",
+      "name": "📺央视综合",
+      "type": 3,
+      "api": "py_cctv",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://agit.ai/l/o/raw/branch/o/o/py_cctvzh.py",
+      "jar": "./jar/ys1211.jar;md5;3E92F56BD34DBC49F26EBCE77B845255"
+    },
+    {
+      "key": "py_cctvxw",
+      "name": "📺央视新闻",
+      "type": 3,
+      "api": "py_cctv",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://agit.ai/l/o/raw/branch/o/o/py_cctvxw.py",
+      "jar": "./jar/ys1211.jar;md5;3E92F56BD34DBC49F26EBCE77B845255"   
+    },
+    {
+      "key": "py_cctvzy",
+      "name": "📺央视综艺",
+      "type": 3,
+      "api": "py_cctv",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://agit.ai/l/o/raw/branch/o/o/py_cctvzy.py",
+      "jar": "./jar/ys1211.jar;md5;3E92F56BD34DBC49F26EBCE77B845255"
+    },
+    {
+      "key": "py_cctvdy",
+      "name": "📺央视电影",
+      "type": 3,
+      "api": "py_cctv",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://agit.ai/l/o/raw/branch/o/o/py_cctvdy.py",
+      "jar": "./jar/ys1211.jar;md5;3E92F56BD34DBC49F26EBCE77B845255"  
+    },
+    {
+      "key": "py_cctvty",
+      "name": "📺央视体育",
+      "type": 3,
+      "api": "py_cctv",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://agit.ai/l/o/raw/branch/o/o/py_cctvty.py",
+      "jar": "./jar/ys1211.jar;md5;3E92F56BD34DBC49F26EBCE77B845255"
+    },
+    {
+      "key": "py_cctvfz",
+      "name": "📺央视法治",
+      "type": 3,
+      "api": "py_cctv",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://agit.ai/l/o/raw/branch/o/o/py_cctv.py",
+      "jar": "./jar/ys1211.jar;md5;3E92F56BD34DBC49F26EBCE77B845255"
+    },
+    {
+      "key": "py_cctvkj",
+      "name": "📺央视科教",
+      "type": 3,
+      "api": "py_cctv",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://agit.ai/l/o/raw/branch/o/o/py_cctvkj.py",
+      "jar": "./jar/ys1211.jar;md5;3E92F56BD34DBC49F26EBCE77B845255"
+    },
+    {
+      "key": "py_cctvyy",
+      "name": "📺央视音乐",
+      "type": 3,
+      "api": "py_cctv",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://agit.ai/l/o/raw/branch/o/o/py_cctvyy.py",
+      "jar": "./jar/ys1211.jar;md5;3E92F56BD34DBC49F26EBCE77B845255"
+    },
+    {
+      "key": "py_cctvse",
+      "name": "📺央视少儿",
+      "type": 3,
+      "api": "py_cctv",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://agit.ai/l/o/raw/branch/o/o/py_cctvse.py",
+      "jar": "./jar/ys1211.jar;md5;3E92F56BD34DBC49F26EBCE77B845255"
+    },
+    {
+      "key": "py_cctvny",
+      "name": "📺央视农业",
+      "type": 3,
+      "api": "py_cctv",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://agit.ai/l/o/raw/branch/o/o/py_cctvny.py",
+      "jar": "./jar/ys1211.jar;md5;3E92F56BD34DBC49F26EBCE77B845255"
+    },
+    {
+      "key": "py_cctvjs",
+      "name": "📺央视军事",
+      "type": 3,
+      "api": "py_cctv",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://agit.ai/l/o/raw/branch/o/o/py_cctvjs.py",
+      "jar": "./jar/ys1211.jar;md5;3E92F56BD34DBC49F26EBCE77B845255"
+    },
     {
       "key": "csp_Anime1",
       "name": "动漫🐟日漫",
@@ -685,7 +696,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://www.yingm.cc/dm/json/维奇.json",
-      "jar":"https://jihulab.com/clear1/yingmi/-/raw/main/jar/fan.jar"
+      "jar": "https://jihulab.com/clear1/yingmi/-/raw/main/jar/fan.jar"
     },
     {
       "key": "嘶哩嘶哩",
@@ -705,7 +716,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://www.yingm.cc/dm/json/去看吧.json",
-      "jar":"https://jihulab.com/clear1/yingmi/-/raw/main/jar/fan.jar"
+      "jar": "https://jihulab.com/clear1/yingmi/-/raw/main/jar/fan.jar"
     },
     {
       "key": "csp_Czsapp",
@@ -1061,7 +1072,7 @@
         "分类url": "https://www.putaojuchang.com/show/{cateId}/area/{area}/class/{class}/by/{by}/page/{catePg}/year/{year}.html",
         "分类": "微剧场$1#言情$6#逆袭$7#战神$8#异能$9#生活$10#重生$12#复仇$20#爱情$11"
       },
-      "jar":"https://jihulab.com/sxtv/1020/-/raw/main/%E7%A6%81%E6%AD%A2%E8%B4%A9%E5%8D%96/sx.jar"
+      "jar": "https://jihulab.com/sxtv/1020/-/raw/main/%E7%A6%81%E6%AD%A2%E8%B4%A9%E5%8D%96/sx.jar"
     },
     {
       "key": "MV_vod",
@@ -1087,7 +1098,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "changeable": 0,
-      "jar":"./jar/fan1.txt;md5;ea2690fc66083afe1431071968e60395",
+      "jar": "./jar/fan1.txt;md5;ea2690fc66083afe1431071968e60395",
       "ext": "https://fanty.run.goorm.site/ext/bilibili.json"
     },
     {
@@ -1102,7 +1113,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "changeable": 0,
-      "jar":"./jar/fan1.txt;md5;ea2690fc66083afe1431071968e60395",
+      "jar": "./jar/fan1.txt;md5;ea2690fc66083afe1431071968e60395",
       "ext": "https://fanty.run.goorm.site/ext/biliych.json"
     },
     {
@@ -1251,7 +1262,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "jar":"./jar/fan1.txt;md5;ea2690fc66083afe1431071968e60395"
+      "jar": "./jar/fan1.txt;md5;ea2690fc66083afe1431071968e60395"
     },
     {
       "key": "少儿教育",
@@ -1266,7 +1277,7 @@
       "quickSearch": 0,
       "changeable": 0,
       "ext": "https://fanty.run.goorm.site/ext/少儿教育.json",
-      "jar":"./jar/fan1.txt;md5;ea2690fc66083afe1431071968e60395"
+      "jar": "./jar/fan1.txt;md5;ea2690fc66083afe1431071968e60395"
     },
     {
       "key": "小学课堂",
@@ -1281,7 +1292,7 @@
       "quickSearch": 0,
       "changeable": 0,
       "ext": "https://fanty.run.goorm.site/ext/小学课堂.json",
-      "jar":"./jar/fan1.txt;md5;ea2690fc66083afe1431071968e60395"
+      "jar": "./jar/fan1.txt;md5;ea2690fc66083afe1431071968e60395"
     },
     {
       "key": "初中课堂",
@@ -1296,7 +1307,7 @@
       "quickSearch": 0,
       "changeable": 0,
       "ext": "https://fanty.run.goorm.site/ext/初中课堂.json",
-      "jar":"./jar/fan1.txt;md5;ea2690fc66083afe1431071968e60395"
+      "jar": "./jar/fan1.txt;md5;ea2690fc66083afe1431071968e60395"
     },
     {
       "key": "高中教育",
@@ -1311,7 +1322,7 @@
       "quickSearch": 0,
       "changeable": 0,
       "ext": "https://fanty.run.goorm.site/ext/高中课堂.json",
-      "jar":"./jar/fan1.txt;md5;ea2690fc66083afe1431071968e60395"
+      "jar": "./jar/fan1.txt;md5;ea2690fc66083afe1431071968e60395"
     },
     {
       "key": "push_agent0",
@@ -1343,7 +1354,7 @@
       "filterable": 1,
       "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt"
     }
-],
+  ],
   "lives": [
     {
       "name": "live",
