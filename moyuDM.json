@@ -3,14 +3,14 @@
     "sites": [
         {
             "key": "AGE动漫",
-            "name": "AGE动漫",
+            "name": "摸摸🐟｜AGE动漫",
             "type": 3,
             "api": "./api/drpy.min.js",
             "ext": "https://cloud.lxweb.cn/f/rG6DuE/AGE%E5%8A%A8%E6%BC%AB.js"
         },
         {
             "key": "csp_Dm84_3",
-            "name": "动漫巴士1",
+            "name": "摸摸🐟｜动漫巴士1",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -20,7 +20,7 @@
         },
         {
             "key": "58动漫网",
-            "name": "58┃动漫",
+            "name": "摸摸🐟｜58┃动漫",
             "type": 3,
             "api": "./api/drpy2.min.js",
             "searchable": 1,
@@ -30,19 +30,8 @@
             "ext": "./js/58动漫.js"
         },
         {
-            "key": "NT动漫",
-            "name": "NT┃动漫",
-            "type": 3,
-            "api": "./api/drpy2.min.js",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1,
-            "changeable": 1,
-            "ext": "https://cloud.lxweb.cn/f/MoA2UG/NT%E5%8A%A8%E6%BC%AB.js"
-        },
-        {
             "key": "csp_Anime1",
-            "name": "动漫┃系列",
+            "name": "摸摸🐟｜动漫┃系列",
             "type": 3,
             "api": "csp_Anime1",
             "searchable": 1,
@@ -51,14 +40,14 @@
         },
         {
             "key": "妮可动漫",
-            "name": "妮可动漫",
+            "name": "摸摸🐟｜妮可动漫",
             "type": 3,
             "api": "./api/drpy.min.js",
             "ext": "./js/妮可动漫.js"
         },
         {
             "key": "csp_Ysj",
-            "name": "异界动漫",
+            "name": "摸摸🐟｜异界动漫",
             "type": 3,
             "api": "csp_Ysj",
             "searchable": 1,
@@ -67,7 +56,7 @@
         },
         {
             "key": "csp_Anime1",
-            "name": "日漫",
+            "name": "摸摸🐟｜日漫",
             "type": 3,
             "api": "csp_Anime1",
             "searchable": 1,
@@ -76,7 +65,7 @@
         },
         {
             "key": "动漫直链",
-            "name": "动漫┃直链",
+            "name": "摸摸🐟｜动漫┃直链",
             "type": 3,
             "api": "csp_XPath",
             "searchable": 1,
@@ -86,42 +75,42 @@
         },
         {
             "key": "去看吧",
-            "name": "去看吧",
+            "name": "摸摸🐟｜去看吧",
             "type": 3,
             "api": "./api/drpy.min.js",
             "ext": "https://cloud.lxweb.cn/f/Yx8ns6/%E5%8E%BB%E7%9C%8B%E5%90%A7.js"
         },
         {
             "key": "nt动漫",
-            "name": "拿铁动漫",
+            "name": "摸摸🐟｜拿铁动漫",
             "type": 3,
             "api": "./api/drpy2.min.js",
-            "ext": "https://cloud.lxweb.cn/f/xgA8CM/ntdm.js"
+            "ext": "https://cloud.lxweb.cn/f/MoA2UG/NT%E5%8A%A8%E6%BC%AB.js"
         },
         {
             "key": "妮可",
-            "name": "妮可动漫",
+            "name": "摸摸🐟｜妮可动漫",
             "type": 3,
             "api": "./api/drpy2.min.js",
             "ext": "./js/妮可动漫.js"
         },
         {
             "key": "anfuns",
-            "name": "ANF动漫",
+            "name": "摸摸🐟｜ANF动漫",
             "type": 3,
             "api": "./api/drpy2.min.js",
             "ext": "./js/anfuns.js"
         },
         {
             "key": "怡萱动漫",
-            "name": "怡萱动漫",
+            "name": "摸摸🐟｜怡萱动漫",
             "type": 3,
             "api": "./api/drpy2.min.js",
             "ext": "https://cloud.lxweb.cn/f/DRonc1/%E6%80%A1%E8%90%B1.js"
         },
         {
             "key": "去看吧",
-            "name": "去看动漫",
+            "name": "摸摸🐟｜去看动漫",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
@@ -131,28 +120,28 @@
         },
         {
             "key": "drpy_js_奇米动漫",
-            "name": "动漫 | 奇米动漫[js]",
+            "name": "摸摸🐟｜动漫 | 奇米动漫[js]",
             "type": 3,
             "api": "./api/drpy2.min.js",
             "ext": "./js/奇米动漫.js"
         },
         {
             "key": "drpy_js_曲奇动漫",
-            "name": "动漫 | 曲奇动漫[js]",
+            "name": "摸摸🐟｜动漫 | 曲奇动漫[js]",
             "type": 3,
             "api": "./api/drpy2.min.js",
             "ext": "https://cloud.lxweb.cn/f/6gQESw/%E6%9B%B2%E5%A5%87%E5%8A%A8%E6%BC%AB.js"
         },
         {
             "key": "异世界",
-            "name": "异世界",
+            "name": "摸摸🐟｜异世界",
             "type": 3,
             "api": "./api/drpy.min.js",
             "ext": "https://cloud.lxweb.cn/f/b8pOsp/%E5%BC%82%E4%B8%96%E7%95%8C.js"
         },
         {
             "key": "维奇",
-            "name": "维奇动漫",
+            "name": "摸摸🐟｜维奇动漫",
             "type": 3,
             "api": "csp_XBPQ",
             "searchable": 1,
