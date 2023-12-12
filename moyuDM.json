@@ -1,5 +1,5 @@
 {
-    "spider": "./DM1212.jar",
+    "spider": "./jar/DM1212.jar",
     "sites": [
         {
             "key": "AGE动漫",
