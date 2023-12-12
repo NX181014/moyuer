@@ -62,6 +62,13 @@
       "jar": "./jar/myal1213.jar;md5;fc949b50853350f2e7462f603f733087"
     },
     {
+      "key": "影探",
+      "name": "4K-HDR🐟影探",
+      "type": 3,
+      "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
+      "ext": "https://d.kstore.space/download/6296/js/yt.js"
+    },
+    {
       "key": "csp_WoGG",
       "name": "4K-HDR🐟玩偶",
       "type": 3,
@@ -70,13 +77,6 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+auto|4k|fhd$$$https://api.wogg.xyz/$$$弹"
-    },
-    {
-      "key": "影探",
-      "name": "4K-HDR🐟影探",
-      "type": 3,
-      "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
-      "ext": "https://d.kstore.space/download/6296/js/yt.js"
     },
     {
       "key": "yanyu",
