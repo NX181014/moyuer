@@ -79,7 +79,7 @@
       "ext": "https://d.kstore.space/download/6296/js/yt.js"
     },
     {
-      "key": "Upyunso",
+      "key": "yanyu",
       "name": "4K-HDR🐟燕语",
       "type": 3,
       "api": "csp_Upyunso",
@@ -90,7 +90,7 @@
       "jar": "./jar/myal1213.jar;md5;fc949b50853350f2e7462f603f733087"
     },
     {
-      "key": "AliPS",
+      "key": "yelan",
       "name": "4K-HDR🐟夜澜",
       "type": 3,
       "api": "csp_AliPS",
@@ -101,7 +101,7 @@
       "jar": "./jar/myal1213.jar;md5;fc949b50853350f2e7462f603f733087"
     },
     {
-      "key": "Yisou",
+      "key": "yeyu",
       "name": "4K-HDR🐟落雨",
       "type": 3,
       "api": "csp_Yisou",
@@ -112,7 +112,7 @@
       "jar": "./jar/myal1213.jar;md5;fc949b50853350f2e7462f603f733087"
     },
     {
-      "key": "Gitcafe",
+      "key": "yumeng",
       "name": "️4K-HDR🐟云梦",
       "type": 3,
       "api": "csp_Gitcafe",
