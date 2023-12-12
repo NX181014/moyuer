@@ -51,8 +51,8 @@
       "jar": "./jar/moyu应用市场.jar"
     },
     {
-      "key": "玩偶哥哥",
-      "name": "4K-HDR🐟玩偶",
+      "key": "xiyan",
+      "name": "4K-HDR🐟夕颜",
       "type": 3,
       "api": "csp_XYQHikerAL",
       "searchable": 1,
@@ -63,7 +63,7 @@
     },
     {
       "key": "csp_WoGG",
-      "name": "4K-HDR🐟弹幕",
+      "name": "4K-HDR🐟玩偶",
       "type": 3,
       "api": "csp_WoGG",
       "searchable": 1,
