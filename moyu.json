@@ -14,7 +14,7 @@
     },
     {
       "key": "荐片",
-      "name": "摸摸🐟｜12.12更新",
+      "name": "摸摸🐟｜12.13更新",
       "type": 3,
       "api": "https://fanty.run.goorm.site/ext/js/drpy2.min.js",
       "ext": "https://fanty.run.goorm.site/ext/jp.js"
@@ -51,19 +51,19 @@
       "jar": "./jar/moyu应用市场.jar"
     },
     {
-      "key": "alist",
-      "name": "摸摸🐟小鸭网盘",
+      "key": "玩偶哥哥",
+      "name": "4K-HDR🐟玩偶",
       "type": 3,
-      "api": "csp_AList",
+      "api": "csp_XYQHikerAL",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://alist.xn--z7x900a.live/alist.json",
-      "jar": "./jar/PandaQ231205.jar;md5;9cc29f6286b2fe7910628852929c4bdb"
+      "ext": "./json/gg.json",
+      "jar": "./jar/myal1213.jar;md5;fc949b50853350f2e7462f603f733087"
     },
     {
       "key": "csp_WoGG",
-      "name": "4K-HDR🐟玩偶弹幕",
+      "name": "4K-HDR🐟弹幕",
       "type": 3,
       "api": "csp_WoGG",
       "searchable": 1,
@@ -77,6 +77,50 @@
       "type": 3,
       "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
       "ext": "https://d.kstore.space/download/6296/js/yt.js"
+    },
+    {
+      "key": "Upyunso",
+      "name": "4K-HDR🐟燕语",
+      "type": 3,
+      "api": "csp_Upyunso",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://127.0.0.1:9978/file/TVBox/tok.txt",
+      "jar": "./jar/myal1213.jar;md5;fc949b50853350f2e7462f603f733087"
+    },
+    {
+      "key": "AliPS",
+      "name": "4K-HDR🐟夜澜",
+      "type": 3,
+      "api": "csp_AliPS",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://127.0.0.1:9978/file/TVBox/tok.txt",
+      "jar": "./jar/myal1213.jar;md5;fc949b50853350f2e7462f603f733087"
+    },
+    {
+      "key": "Yisou",
+      "name": "4K-HDR🐟落雨",
+      "type": 3,
+      "api": "csp_Yisou",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://127.0.0.1:9978/file/TVBox/tok.txt",
+      "jar": "./jar/myal1213.jar;md5;fc949b50853350f2e7462f603f733087"
+    },
+    {
+      "key": "Gitcafe",
+      "name": "️4K-HDR🐟云梦",
+      "type": 3,
+      "api": "csp_Gitcafe",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://127.0.0.1:9978/file/TVBox/tok.txt",
+      "jar": "./jar/myal1213.jar;md5;fc949b50853350f2e7462f603f733087"
     },
     {
       "key": "csp_search_Panda_pansearch",
@@ -97,7 +141,7 @@
         "jar": "./jar/PandaQ231205.jar;md5;9cc29f6286b2fe7910628852929c4bdb"
     },
     {
-      "key": "csp_search_Panda_盘搜",
+      "key": "csp_search_Panda_sh",
       "name": "4K-HDR🐟尽一",
       "type": 3,
       "api": "csp_Panda",
@@ -1122,6 +1166,18 @@
       "quickSearch": 0,
       "changeable": 0
     },
+    {
+      "key": "alist",
+      "name": "🐟小鸭网盘",
+      "type": 3,
+      "api": "csp_AList",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://alist.xn--z7x900a.live/alist.json",
+      "jar": "./jar/PandaQ231205.jar;md5;9cc29f6286b2fe7910628852929c4bdb"
+    },
+
     {
       "key": "Bili",
       "name": "🐟哔哩合集",
