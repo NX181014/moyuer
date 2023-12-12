@@ -1,4 +1,3 @@
-// http://www.ntdm.tv
 var rule={
     title:'NT动漫',
     host:'http://www.ntdm8.com',
