@@ -123,6 +123,23 @@
       "jar": "./jar/myal1213.jar;md5;fc949b50853350f2e7462f603f733087"
     },
     {
+      "key": "jinyi",
+      "name": "4K-HDR🐟尽一",
+      "type": 3,
+      "api": "csp_Panda",
+      "ext": {
+        "标题": "<span*>&&</div>",
+        "副标题": "时间:&&格式",
+        "图片": "thumb=\"&&\"",
+        "链接": "/cv/+href=\"/s/&&\"",
+        "搜索url": "https://www.alipansou.com/search?page={pg}&k={wd}&s=0&t=7;;kS5",
+        "timeout": 30,
+        "changeable": 0,
+        "阿里token": ""
+      },
+        "jar": "./jar/PandaQ231205.jar;md5;9cc29f6286b2fe7910628852929c4bdb"
+    },
+    {
       "key": "csp_search_Panda_pansearch",
       "name": "4K-HDR🐟盘搜",
       "type": 3,
@@ -134,23 +151,6 @@
         "图片": "<img src=\"&&\"",
         "链接": "href=\"&&\"",
         "搜索url": "https://www.pansearch.me/search?keyword={wd}&pan=aliyundrive;;kS5",
-        "timeout": 30,
-        "changeable": 0,
-        "阿里token": ""
-      },
-        "jar": "./jar/PandaQ231205.jar;md5;9cc29f6286b2fe7910628852929c4bdb"
-    },
-    {
-      "key": "csp_search_Panda_sh",
-      "name": "4K-HDR🐟尽一",
-      "type": 3,
-      "api": "csp_Panda",
-      "ext": {
-        "标题": "<span*>&&</div>",
-        "副标题": "时间:&&格式",
-        "图片": "thumb=\"&&\"",
-        "链接": "/cv/+href=\"/s/&&\"",
-        "搜索url": "https://www.alipansou.com/search?page={pg}&k={wd}&s=0&t=7;;kS5",
         "timeout": 30,
         "changeable": 0,
         "阿里token": ""
@@ -212,19 +212,8 @@
       "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt+4k|fhd|auto$$$wudidewo$$$wudi"
     },
     {
-      "key": "AliPS",
-      "name": "盘搜❤️4K",
-      "type": 3,
-      "api": "csp_AliPS",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "http://127.0.0.1:9978/file/TVBox/tok.txt",
-      "jar": "./jar/og1204.jar;md5;33d3bd8c68d552c00020abface9ef61b"
-    },
-    {
-      "key": "Yisou",
-      "name": "易搜❤️4K",
+      "key": "jngyi",
+      "name": "静怡❤️4K",
       "type": 3,
       "api": "csp_Yisou",
       "searchable": 1,
@@ -234,8 +223,8 @@
       "jar": "./jar/og1204.jar;md5;33d3bd8c68d552c00020abface9ef61b"
     },
     {
-      "key": "Upyunso",
-      "name": "云搜❤️4K",
+      "key": "hanmeng",
+      "name": "寒梦❤️4K",
       "type": 3,
       "api": "csp_Upyunso",
       "searchable": 1,
@@ -245,13 +234,22 @@
       "jar": "./jar/og1204.jar;md5;33d3bd8c68d552c00020abface9ef61b"
     },
     {
-      "key": "Gitcafe",
-      "name": "小纸条❤️4K",
+      "key": "weiyu",
+      "name": "微雨❤️4K",
       "type": 3,
-      "api": "csp_Gitcafe",
+      "api": "csp_PanSearch",
+      "searchable": 1,
+      "changeable": 0,
+      "jar": "./jar/og1204.jar;md5;33d3bd8c68d552c00020abface9ef61b"
+    },
+    {
+      "key": "xuerou",
+      "name": "雪柔❤️4K",
+      "type": 3,
+      "api": "csp_AliPS",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
+      "filterable": 0,
       "ext": "http://127.0.0.1:9978/file/TVBox/tok.txt",
       "jar": "./jar/og1204.jar;md5;33d3bd8c68d552c00020abface9ef61b"
     },
@@ -274,6 +272,27 @@
       "jar": "./jar/og1204.jar;md5;33d3bd8c68d552c00020abface9ef61b"
     },
     {
+      "key": "Gitcafe",
+      "name": "小纸条❤️4K",
+      "type": 3,
+      "api": "csp_Gitcafe",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://127.0.0.1:9978/file/TVBox/tok.txt",
+      "jar": "./jar/og1204.jar;md5;33d3bd8c68d552c00020abface9ef61b"
+    },
+    {
+      "key": "找資源",
+      "name": "找片💖4K",
+      "type": 3,
+      "api": "csp_Zhaozy",
+      "searchable": 1,
+      "changeable": 0,
+      "ext": "$$$test2$$$test2",
+      "jar": "./jar/og1204.jar;md5;33d3bd8c68d552c00020abface9ef61b"
+    },
+    {
       "key": "盤搜",
       "name": "盘搜💖4K",
       "type": 3,
@@ -289,25 +308,6 @@
       "api": "csp_XiaoZhiTiao",
       "searchable": 1,
       "changeable": 0,
-      "jar": "./jar/og1204.jar;md5;33d3bd8c68d552c00020abface9ef61b"
-    },
-    {
-      "key": "盤搜索",
-      "name": "PanS💖4K",
-      "type": 3,
-      "api": "csp_PanSearch",
-      "searchable": 1,
-      "changeable": 0,
-      "jar": "./jar/og1204.jar;md5;33d3bd8c68d552c00020abface9ef61b"
-    },
-    {
-      "key": "找資源",
-      "name": "找片💖4K",
-      "type": 3,
-      "api": "csp_Zhaozy",
-      "searchable": 1,
-      "changeable": 0,
-      "ext": "$$$test2$$$test2",
       "jar": "./jar/og1204.jar;md5;33d3bd8c68d552c00020abface9ef61b"
     },
     {
