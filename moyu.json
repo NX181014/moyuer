@@ -272,15 +272,17 @@
       "jar": "./jar/og1204.jar;md5;33d3bd8c68d552c00020abface9ef61b"
     },
     {
-      "key": "Gitcafe",
-      "name": "小纸条❤️4K",
+      "key": "小纸条",
+      "name": "纸条💖4K",
       "type": 3,
-      "api": "csp_Gitcafe",
+      "api": "csp_XiaoZhiTiao",
+      "jar":"http://小盒酷玩.fun:70/禁止贩卖;md5;19cc25ee10378e8946ef872ec1de2dfe",
+      "changeable": 0,
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://127.0.0.1:9978/file/TVBox/tok.txt",
-      "jar": "./jar/og1204.jar;md5;33d3bd8c68d552c00020abface9ef61b"
+      "filterable": 0,
+      "ext": "http://小盒酷玩.fun:71/禁止贩卖",
+      "timeout": 30
     },
     {
       "key": "找資源",
@@ -311,17 +313,31 @@
       "jar": "./jar/og1204.jar;md5;33d3bd8c68d552c00020abface9ef61b"
     },
     {
-      "key": "玩偶",
-      "name": "玩偶💖4K",
+      "key": "夸克",
+      "name": "夸克💖4K",
       "type": 3,
-      "api": "csp_Wogg",
+      "api": "csp_QuPanSou",
+      "jar": "http://小盒酷玩.fun:72/禁止贩卖",
       "searchable": 1,
+      "filterable": 1,
       "changeable": 0,
       "ext": {
-        "token": "影視天下第一",
-        "filter": "./json/wogg.json"
-      },
-      "jar": "https://tvbox.cainisi.cf/jar/fm1124.jar;md5;1117603a248d03a2fba94c991612970f"
+        "cookie": "http://小盒酷玩.fun:73/禁止贩卖",
+        "danmu": true
+      }
+    },
+    {
+      "key": "喵狸",
+      "name": "喵狸💖4K",
+      "type": 3,
+      "api": "csp_PanSou",
+      "jar":"http://小盒酷玩.fun:70/禁止贩卖;md5;19cc25ee10378e8946ef872ec1de2dfe",
+      "changeable": 0,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://小盒酷玩.fun:71/禁止贩卖",
+      "timeout": 30
     },
     {
       "key": "橘子",
