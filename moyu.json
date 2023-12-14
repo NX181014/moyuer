@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/moyu1204.jar;md5;be6121b5c37471b191114027123912d2",
+  "spider": "./jar/moyu1215.jar;md5;be6121b5c37471b191114027123912d2",
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "warningText": "摸鱼儿：资源来自网络，无盈利，纯技术分享，如有冒犯请联系删除。[所有内容仅供学习使用，请勿用于违法及商业用途，请勿付费购买]",
   "sites": [
@@ -14,7 +14,7 @@
     },
     {
       "key": "荐片",
-      "name": "摸摸🐟｜12.13更新",
+      "name": "摸摸🐟｜12.15更新",
       "type": 3,
       "api": "https://fanty.run.goorm.site/ext/js/drpy2.min.js",
       "ext": "https://fanty.run.goorm.site/ext/jp.js"
@@ -69,14 +69,14 @@
       "ext": "https://d.kstore.space/download/6296/js/yt.js"
     },
     {
-      "key": "csp_WoGG",
+      "key": "玩偶哥哥",
       "name": "4K-HDR🐟玩偶",
       "type": 3,
       "api": "csp_WoGG",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+auto|4k|fhd$$$https://api.wogg.xyz/$$$弹"
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"
     },
     {
       "key": "yanyu",
