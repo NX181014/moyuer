@@ -13,11 +13,16 @@
       "filterable": 0
     },
     {
-      "key": "荐片",
-      "name": "摸摸🐟｜12.15更新",
+      "key": "csp_JianPian",
+      "name": "摸摸🐟｜12.16更新",
       "type": 3,
-      "api": "https://fanty.run.goorm.site/ext/js/drpy2.min.js",
-      "ext": "https://fanty.run.goorm.site/ext/jp.js"
+      "api": "csp_JianPian",
+      "playerType": 1,
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://ownjpykxttjzuhy.jiesiwa.com",
+      "jar": "./jar/myal1216.jar;md5;fc949b50853350f2e7462f603f733087"
     },
     {
       "key": "阿里云盘登录",
@@ -59,7 +64,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./json/gg.json",
-      "jar": "./jar/myal1213.jar;md5;fc949b50853350f2e7462f603f733087"
+      "jar": "./jar/myal1216.jar;md5;fc949b50853350f2e7462f603f733087"
     },
     {
       "key": "影探",
@@ -87,7 +92,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "http://127.0.0.1:9978/file/TVBox/tok.txt",
-      "jar": "./jar/myal1213.jar;md5;fc949b50853350f2e7462f603f733087"
+      "jar": "./jar/myal1216.jar;md5;fc949b50853350f2e7462f603f733087"
     },
     {
       "key": "yelan",
@@ -98,7 +103,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "http://127.0.0.1:9978/file/TVBox/tok.txt",
-      "jar": "./jar/myal1213.jar;md5;fc949b50853350f2e7462f603f733087"
+      "jar": "./jar/myal1216.jar;md5;fc949b50853350f2e7462f603f733087"
     },
     {
       "key": "yeyu",
@@ -109,7 +114,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "http://127.0.0.1:9978/file/TVBox/tok.txt",
-      "jar": "./jar/myal1213.jar;md5;fc949b50853350f2e7462f603f733087"
+      "jar": "./jar/myal1216.jar;md5;fc949b50853350f2e7462f603f733087"
     },
     {
       "key": "yumeng",
@@ -120,7 +125,39 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://127.0.0.1:9978/file/TVBox/tok.txt",
-      "jar": "./jar/myal1213.jar;md5;fc949b50853350f2e7462f603f733087"
+      "jar": "./jar/myal1216.jar;md5;fc949b50853350f2e7462f603f733087"
+    },
+    {
+      "key": "YiSo",
+      "name": "4K-HDR🐟易搜",
+      "type": 3,
+      "api": "csp_YiSo",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt+4k|fhd|auto"
+    },
+    {
+      "key": "七夜",
+      "name": "4K-HDR🐟七夜",
+      "type": 3,
+      "api": "csp_Dovx",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+auto|4k|fhd"
+    },
+    {
+      "key": "UpYun",
+      "name": "4K-HDR🐟UP搜",
+      "type": 3,
+      "api": "csp_UpYun",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt+4k|fhd|auto"
     },
     {
       "key": "jinyi",
@@ -156,38 +193,6 @@
         "阿里token": ""
       },
         "jar": "./jar/PandaQ231205.jar;md5;9cc29f6286b2fe7910628852929c4bdb"
-    },
-    {
-      "key": "YiSo",
-      "name": "4K-HDR🐟易搜",
-      "type": 3,
-      "api": "csp_YiSo",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt+4k|fhd|auto"
-    },
-    {
-      "key": "七夜",
-      "name": "4K-HDR🐟七夜",
-      "type": 3,
-      "api": "csp_Dovx",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+auto|4k|fhd"
-    },
-    {
-      "key": "UpYun",
-      "name": "4K-HDR🐟UP搜",
-      "type": 3,
-      "api": "csp_UpYun",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt+4k|fhd|auto"
     },
     {
       "key": "csp_XYQHikerdyx",
@@ -338,6 +343,79 @@
       "filterable": 0,
       "ext": "http://小盒酷玩.fun:71/禁止贩卖",
       "timeout": 30
+    },
+    {
+      "key": "云播",
+      "name": "1080P💘落花",
+      "type": 3,
+      "api": "csp_Skapp",
+      "playerType": 2,
+      "ext": "./json/yunbo.json",
+      "jar": "./jar/myal1216.jar;md5;fc949b50853350f2e7462f603f733087"
+    },
+    {
+      "key": "初月",
+      "name": "1080P💘初月",
+      "type": 3,
+      "api": "csp_App",
+      "playerType": 2,
+      "ext": "./json/星星.json",
+      "jar": "./jar/myal1216.jar;md5;fc949b50853350f2e7462f603f733087"
+    },
+    {
+      "key": "哔嘀",
+      "name": "1080P💘哔嘀",
+      "type": 3,
+      "api": "csp_Bdys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "./jar/myal1216.jar;md5;fc949b50853350f2e7462f603f733087"
+    },
+    {
+      "key": "蝴蝶",
+      "name": "1080P💘蝴蝶",
+      "type": 3,
+      "api": "csp_Hudie",
+      "playerType": 2,
+      "ext": "https://yundun-hdsign.zhuifeng100.cn|kT2taP|75f7fac7f56d812d1f9ce89d9f312984|b7688bd6347da0b2b62515b0730b872b",
+      "jar": "./jar/myal1216.jar;md5;fc949b50853350f2e7462f603f733087"
+    },
+    {
+      "key": "梦华",
+      "name": "1080P💘梦华",
+      "type": 3,
+      "api": "csp_App",
+      "searchable": 1,
+      "quickSearch": 1,
+      "playerType": 2,
+      "filterable": 1,
+      "ext": "./json/超神.json",
+      "jar": "./jar/myal1216.jar;md5;fc949b50853350f2e7462f603f733087"
+    },
+    {
+      "key": "流年",
+      "name": "1080P💘流年",
+      "type": 3,
+      "api": "csp_App",
+      "searchable": 1,
+      "quickSearch": 1,
+      "playerType": 2,
+      "filterable": 1,
+      "ext": "./json/嘿嘿.json",
+      "jar": "./jar/myal1216.jar;md5;fc949b50853350f2e7462f603f733087"
+    },
+    {
+      "key": "诗意",
+      "name": "1080P💘诗怀",
+      "type": 3,
+      "api": "csp_App",
+      "searchable": 1,
+      "quickSearch": 1,
+      "playerType": 2,
+      "filterable": 1,
+      "ext": "./json/老虎.json",
+      "jar": "./jar/myal1216.jar;md5;fc949b50853350f2e7462f603f733087"
     },
     {
       "key": "橘子",
@@ -576,14 +654,6 @@
       }
     },
     {
-      "key": "007影视",
-      "name": "1080P🐟007",
-      "type": 3,
-      "playerType": "1",
-      "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
-      "ext": "https://d.kstore.space/download/6296/js/007.js"
-    },
-    {
       "key": "csp_77",
       "name": "1080P🐟七七",
       "type": 3,
@@ -640,231 +710,6 @@
         "跳转播放链接": "urlDecode(vod_class*url\":\"&&\")"
       }
     },
-    {
-      "key": "csp_Anime1",
-      "name": "动漫🐟日漫",
-      "type": 3,
-      "api": "csp_Anime1",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "./jar/PandaQ231205.jar;md5;9cc29f6286b2fe7910628852929c4bdb"
-    },
-    {
-      "key": "58动漫网",
-      "name": "动漫🐟58",
-      "type": 3,
-      "api": "https://www.yingm.cc/dm/js/drpy2.min.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": "https://www.yingm.cc/dm/js/58动漫.js"
-    },
-    {
-      "key": "维奇",
-      "name": "动漫🐟维奇",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://www.yingm.cc/dm/json/维奇.json",
-      "jar": "https://jihulab.com/clear1/yingmi/-/raw/main/jar/fan.jar"
-    },
-    {
-      "key": "嘶哩嘶哩",
-      "name": "动漫🐟嘶哩",
-      "type": 3,
-      "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": "https://drpy.cainisi.cf/js/嘶哩嘶哩.js"
-    },
-    {
-      "key": "去看吧",
-      "name": "动漫🐟去看",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://www.yingm.cc/dm/json/去看吧.json",
-      "jar": "https://jihulab.com/clear1/yingmi/-/raw/main/jar/fan.jar"
-    },
-    {
-      "key": "csp_Czsapp",
-      "name": "🐟厂长┃直连",
-      "type": 3,
-      "api": "csp_Czsapp",
-      "playerType": 2,
-      "searchable": 1,
-      "changeable": 0,
-      "quickSearch": 1,
-      "ext": "https://www.czzy88.com/",
-      "filterable": 1
-    },
-    {
-      "key": "哔嘀",
-      "name": "🐟哔嘀┃直连",
-      "type": 3,
-      "api": "csp_Bdys",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "./jar/ogjar.php;md5;4ebdfa80cc9c36349563afa7aa2acf49"
-    },
-    {
-      "key": "Auete",
-      "name": "🐟奥特直连",
-      "type": 3,
-      "api": "csp_Auete",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0
-    },
-    {
-      "key": "360_spider",
-      "name": "🐟360┃直连",
-      "type": 3,
-      "api": "csp_SP360",
-      "filterable": 1,
-      "quickSearch": 1,
-      "searchable": 1,
-      "jar": "./jar/ogjar.php;md5;4ebdfa80cc9c36349563afa7aa2acf49"
-    },
-    {
-      "key": "低端",
-      "name": "🐟低端┃直连",
-      "type": 3,
-      "api": "csp_Ddys",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "./jar/ogjar.php;md5;4ebdfa80cc9c36349563afa7aa2acf49"
-    },
-    {
-      "key": "py_cctvzh",
-      "name": "📺央视综合",
-      "type": 3,
-      "api": "py_cctv",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://agit.ai/l/o/raw/branch/o/o/py_cctvzh.py",
-      "jar": "./jar/ys1211.jar;md5;3E92F56BD34DBC49F26EBCE77B845255"
-    },
-    {
-      "key": "py_cctvxw",
-      "name": "📺央视新闻",
-      "type": 3,
-      "api": "py_cctv",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://agit.ai/l/o/raw/branch/o/o/py_cctvxw.py",
-      "jar": "./jar/ys1211.jar;md5;3E92F56BD34DBC49F26EBCE77B845255"   
-    },
-    {
-      "key": "py_cctvzy",
-      "name": "📺央视综艺",
-      "type": 3,
-      "api": "py_cctv",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://agit.ai/l/o/raw/branch/o/o/py_cctvzy.py",
-      "jar": "./jar/ys1211.jar;md5;3E92F56BD34DBC49F26EBCE77B845255"
-    },
-    {
-      "key": "py_cctvdy",
-      "name": "📺央视电影",
-      "type": 3,
-      "api": "py_cctv",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://agit.ai/l/o/raw/branch/o/o/py_cctvdy.py",
-      "jar": "./jar/ys1211.jar;md5;3E92F56BD34DBC49F26EBCE77B845255"  
-    },
-    {
-      "key": "py_cctvty",
-      "name": "📺央视体育",
-      "type": 3,
-      "api": "py_cctv",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://agit.ai/l/o/raw/branch/o/o/py_cctvty.py",
-      "jar": "./jar/ys1211.jar;md5;3E92F56BD34DBC49F26EBCE77B845255"
-    },
-    {
-      "key": "py_cctvfz",
-      "name": "📺央视法治",
-      "type": 3,
-      "api": "py_cctv",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://agit.ai/l/o/raw/branch/o/o/py_cctv.py",
-      "jar": "./jar/ys1211.jar;md5;3E92F56BD34DBC49F26EBCE77B845255"
-    },
-    {
-      "key": "py_cctvkj",
-      "name": "📺央视科教",
-      "type": 3,
-      "api": "py_cctv",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://agit.ai/l/o/raw/branch/o/o/py_cctvkj.py",
-      "jar": "./jar/ys1211.jar;md5;3E92F56BD34DBC49F26EBCE77B845255"
-    },
-    {
-      "key": "py_cctvyy",
-      "name": "📺央视音乐",
-      "type": 3,
-      "api": "py_cctv",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://agit.ai/l/o/raw/branch/o/o/py_cctvyy.py",
-      "jar": "./jar/ys1211.jar;md5;3E92F56BD34DBC49F26EBCE77B845255"
-    },
-    {
-      "key": "py_cctvse",
-      "name": "📺央视少儿",
-      "type": 3,
-      "api": "py_cctv",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://agit.ai/l/o/raw/branch/o/o/py_cctvse.py",
-      "jar": "./jar/ys1211.jar;md5;3E92F56BD34DBC49F26EBCE77B845255"
-    },
-    {
-      "key": "py_cctvny",
-      "name": "📺央视农业",
-      "type": 3,
-      "api": "py_cctv",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://agit.ai/l/o/raw/branch/o/o/py_cctvny.py",
-      "jar": "./jar/ys1211.jar;md5;3E92F56BD34DBC49F26EBCE77B845255"
-    },
-    {
-      "key": "py_cctvjs",
-      "name": "📺央视军事",
-      "type": 3,
-      "api": "py_cctv",
-      "searchable": 0,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": "https://agit.ai/l/o/raw/branch/o/o/py_cctvjs.py",
-      "jar": "./jar/ys1211.jar;md5;3E92F56BD34DBC49F26EBCE77B845255"
-    },
-
     {
       "key": "红牛资源",
       "name": "🎀红牛┃采集",
@@ -1092,6 +937,240 @@
       ]
     },
     {
+      "key": "58动漫网",
+      "name": "动漫🐟58",
+      "type": 3,
+      "api": "https://www.yingm.cc/dm/js/drpy2.min.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": "https://www.yingm.cc/dm/js/58动漫.js"
+    },
+    {
+      "key": "csp_Anime1",
+      "name": "摸摸🐟｜日漫",
+      "type": 3,
+      "api": "csp_Anime1",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar":"./jar/DM1212.jar"
+    },
+    {
+      "key": "维奇",
+      "name": "动漫🐟维奇",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.yingm.cc/dm/json/维奇.json",
+      "jar": "https://jihulab.com/clear1/yingmi/-/raw/main/jar/fan.jar"
+    },
+    {
+      "key": "嘶哩嘶哩",
+      "name": "动漫🐟嘶哩",
+      "type": 3,
+      "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
+      "searchable": 1,
+      "changeable": 1,
+      "ext": "https://drpy.cainisi.cf/js/嘶哩嘶哩.js"
+    },
+    {
+      "key": "去看吧",
+      "name": "动漫🐟去看",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.yingm.cc/dm/json/去看吧.json",
+      "jar": "https://jihulab.com/clear1/yingmi/-/raw/main/jar/fan.jar"
+    },
+    {
+      "key": "Czsapp",
+      "name": "🐟厂长┃直连",
+      "type": 3,
+      "api": "csp_Czsapp",
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://www.czzy33.com/"
+    },
+    {
+      "key": "瑞丰",
+      "name": "🐟瑞丰直连",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://www.miniku.cc/xgapp.php/v2/",
+      "jar": "./jar/myal1216.jar;md5;fc949b50853350f2e7462f603f733087"
+    },
+    {
+      "key": "Auete",
+      "name": "🐟奥特直连",
+      "type": 3,
+      "api": "csp_Auete",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0
+    },
+    {
+      "key": "加速器",
+      "name": "🐟加速直连",
+      "type": 3,
+      "api": "csp_AppYs",
+      "searchable": 1,
+      "quickSearch": 1,
+      "ext": "http://m.hhssyyss.icu/ruifenglb_api.php/v1.vod",
+      "jar": "./jar/myal1216.jar;md5;fc949b50853350f2e7462f603f733087"
+    },
+    {
+      "key": "360_spider",
+      "name": "🐟360直连",
+      "type": 3,
+      "api": "csp_SP360",
+      "filterable": 1,
+      "quickSearch": 1,
+      "searchable": 1,
+      "jar": "./jar/myal1216.jar;md5;fc949b50853350f2e7462f603f733087"
+    },
+    {
+      "key": "低端",
+      "name": "🐟低端┃直连",
+      "type": 3,
+      "api": "csp_Ddys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "jar": "./jar/ogjar.php;md5;4ebdfa80cc9c36349563afa7aa2acf49"
+    },
+    {
+      "key": "py_cctvzh",
+      "name": "📺央视综合",
+      "type": 3,
+      "api": "py_cctv",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://agit.ai/l/o/raw/branch/o/o/py_cctvzh.py",
+      "jar": "./jar/ys1211.jar;md5;3E92F56BD34DBC49F26EBCE77B845255"
+    },
+    {
+      "key": "py_cctvxw",
+      "name": "📺央视新闻",
+      "type": 3,
+      "api": "py_cctv",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://agit.ai/l/o/raw/branch/o/o/py_cctvxw.py",
+      "jar": "./jar/ys1211.jar;md5;3E92F56BD34DBC49F26EBCE77B845255"   
+    },
+    {
+      "key": "py_cctvzy",
+      "name": "📺央视综艺",
+      "type": 3,
+      "api": "py_cctv",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://agit.ai/l/o/raw/branch/o/o/py_cctvzy.py",
+      "jar": "./jar/ys1211.jar;md5;3E92F56BD34DBC49F26EBCE77B845255"
+    },
+    {
+      "key": "py_cctvdy",
+      "name": "📺央视电影",
+      "type": 3,
+      "api": "py_cctv",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://agit.ai/l/o/raw/branch/o/o/py_cctvdy.py",
+      "jar": "./jar/ys1211.jar;md5;3E92F56BD34DBC49F26EBCE77B845255"  
+    },
+    {
+      "key": "py_cctvty",
+      "name": "📺央视体育",
+      "type": 3,
+      "api": "py_cctv",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://agit.ai/l/o/raw/branch/o/o/py_cctvty.py",
+      "jar": "./jar/ys1211.jar;md5;3E92F56BD34DBC49F26EBCE77B845255"
+    },
+    {
+      "key": "py_cctvfz",
+      "name": "📺央视法治",
+      "type": 3,
+      "api": "py_cctv",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://agit.ai/l/o/raw/branch/o/o/py_cctv.py",
+      "jar": "./jar/ys1211.jar;md5;3E92F56BD34DBC49F26EBCE77B845255"
+    },
+    {
+      "key": "py_cctvkj",
+      "name": "📺央视科教",
+      "type": 3,
+      "api": "py_cctv",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://agit.ai/l/o/raw/branch/o/o/py_cctvkj.py",
+      "jar": "./jar/ys1211.jar;md5;3E92F56BD34DBC49F26EBCE77B845255"
+    },
+    {
+      "key": "py_cctvyy",
+      "name": "📺央视音乐",
+      "type": 3,
+      "api": "py_cctv",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://agit.ai/l/o/raw/branch/o/o/py_cctvyy.py",
+      "jar": "./jar/ys1211.jar;md5;3E92F56BD34DBC49F26EBCE77B845255"
+    },
+    {
+      "key": "py_cctvse",
+      "name": "📺央视少儿",
+      "type": 3,
+      "api": "py_cctv",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://agit.ai/l/o/raw/branch/o/o/py_cctvse.py",
+      "jar": "./jar/ys1211.jar;md5;3E92F56BD34DBC49F26EBCE77B845255"
+    },
+    {
+      "key": "py_cctvny",
+      "name": "📺央视农业",
+      "type": 3,
+      "api": "py_cctv",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://agit.ai/l/o/raw/branch/o/o/py_cctvny.py",
+      "jar": "./jar/ys1211.jar;md5;3E92F56BD34DBC49F26EBCE77B845255"
+    },
+    {
+      "key": "py_cctvjs",
+      "name": "📺央视军事",
+      "type": 3,
+      "api": "py_cctv",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://agit.ai/l/o/raw/branch/o/o/py_cctvjs.py",
+      "jar": "./jar/ys1211.jar;md5;3E92F56BD34DBC49F26EBCE77B845255"
+    },
+    {
       "key": "短剧网",
       "name": "💚短剧网",
       "type": 3,
@@ -1193,37 +1272,6 @@
       "ext": "http://alist.xn--z7x900a.live/alist.json",
       "jar": "./jar/PandaQ231205.jar;md5;9cc29f6286b2fe7910628852929c4bdb"
     },
-
-    {
-      "key": "Bili",
-      "name": "🐟哔哩合集",
-      "type": 3,
-      "api": "csp_Bili",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 0,
-      "jar": "./jar/fan1.txt;md5;ea2690fc66083afe1431071968e60395",
-      "ext": "https://fanty.run.goorm.site/ext/bilibili.json"
-    },
-    {
-      "key": "Biliych",
-      "name": "🐟哔哩歌曲",
-      "type": 3,
-      "api": "csp_Bili",
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
-      },
-      "searchable": 1,
-      "quickSearch": 0,
-      "changeable": 0,
-      "jar": "./jar/fan1.txt;md5;ea2690fc66083afe1431071968e60395",
-      "ext": "https://fanty.run.goorm.site/ext/biliych.json"
-    },
     {
       "key": "drpy_js_88看球",
       "name": "🐟球赛直播",
@@ -1264,6 +1312,14 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0
+    },
+    {
+      "key": "drpy_哔哩",
+      "name": "🐟哔哩合集",
+      "type": 3,
+      "api": "https://d.kstore.space/download/6296/js/lib/drpy2.min.js",
+      "playerType": 1,
+      "ext": "https://d.kstore.space/download/6296/js/B站.js"
     },
     {
       "key": "相声",
@@ -1369,8 +1425,7 @@
       },
       "searchable": 0,
       "quickSearch": 0,
-      "changeable": 0,
-      "jar": "./jar/fan1.txt;md5;ea2690fc66083afe1431071968e60395"
+      "changeable": 0
     },
     {
       "key": "少儿教育",
@@ -1384,8 +1439,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://fanty.run.goorm.site/ext/少儿教育.json",
-      "jar": "./jar/fan1.txt;md5;ea2690fc66083afe1431071968e60395"
+      "ext": "https://fanty.run.goorm.site/ext/少儿教育.json"
     },
     {
       "key": "小学课堂",
@@ -1399,8 +1453,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://fanty.run.goorm.site/ext/小学课堂.json",
-      "jar": "./jar/fan1.txt;md5;ea2690fc66083afe1431071968e60395"
+      "ext": "https://fanty.run.goorm.site/ext/小学课堂.json"
     },
     {
       "key": "初中课堂",
@@ -1414,8 +1467,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://fanty.run.goorm.site/ext/初中课堂.json",
-      "jar": "./jar/fan1.txt;md5;ea2690fc66083afe1431071968e60395"
+      "ext": "https://fanty.run.goorm.site/ext/初中课堂.json"
     },
     {
       "key": "高中教育",
@@ -1429,8 +1481,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0,
-      "ext": "https://fanty.run.goorm.site/ext/高中课堂.json",
-      "jar": "./jar/fan1.txt;md5;ea2690fc66083afe1431071968e60395"
+      "ext": "https://fanty.run.goorm.site/ext/高中课堂.json"
     },
     {
       "key": "push_agent0",
@@ -1467,7 +1518,7 @@
     {
       "name": "live",
       "type": 0,
-      "url": "./moyuive.txt",
+      "url": "https://jihulab.com/moyuer/momoyu/-/raw/main/moyuive.txt",
       "ua": "okhttp/3.12.13",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
       "logo": "https://epg.112114.xyz/logo/{name}.png"
