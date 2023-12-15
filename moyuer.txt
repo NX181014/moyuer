@@ -313,20 +313,6 @@
       "jar": "./jar/og1204.jar;md5;33d3bd8c68d552c00020abface9ef61b"
     },
     {
-      "key": "夸克",
-      "name": "夸克💖4K",
-      "type": 3,
-      "api": "csp_QuPanSou",
-      "jar": "http://小盒酷玩.fun:72/禁止贩卖",
-      "searchable": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "ext": {
-        "cookie": "http://小盒酷玩.fun:73/禁止贩卖",
-        "danmu": true
-      }
-    },
-    {
       "key": "喵狸",
       "name": "喵狸💖4K",
       "type": 3,
