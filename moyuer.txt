@@ -1,7 +1,7 @@
 {
   "spider": "./jar/moyu1215.jar;md5;be6121b5c37471b191114027123912d2",
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
-  "warningText": "摸鱼儿：免费使用，无任何盈利！",
+  "warningText": "摸鱼儿：免费使用",
   "sites": [
     {
       "key": "豆豆",
