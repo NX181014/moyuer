@@ -1,0 +1,22 @@
+{
+"token":"http://127.0.0.1:9978/file/tvbox/token.txt",
+"open_token":"",
+"thread_limit":64,
+"quark_thread_limit":10,
+"vod_flags":"4kz|4k|auto",
+"is_vip":true,
+"vip_thread_limit":1,
+"quark_flags":"4kz|auto",
+"quark_is_vip":true,
+"uc_thread_limit":0,
+"uc_is_vip":false,
+"uc_vip_thread_limit":0,
+"uc_flags":"4kz|auto",
+"uc_cookie":"",
+"aliproxy":"",
+"proxy":"",
+"open_api_url":"https://aliyundrive-oauth.messense.me/oauth/access_token",
+"danmu":true,
+"quark_danmu":true,
+"quark_cookie":"_UP_A4A_11_=wb9001e0d3254cde8501d306f653ad4f; _UP_335_2B_=1; _UP_30C_6A_=st9076201f81ca0lvue4fsgtlxrclhli; _UP_TS_=sg15203794621889e750575e3f74aed3995; _UP_E37_B7_=sg15203794621889e750575e3f74aed3995; _UP_TG_=st9076201f81ca0lvue4fsgtlxrclhli; __pus=7b148390f5ebdfceb395bf2ce2995fa3AARUiPM6CjTgD1OGgQjTCMLUvVCC+/8yJGPE/703sCAdIKZHUlekHcuJwFqbhx9okpIuOryE2Rl9RNFH+kyD3ySa; __kp=7017cec0-8f78-11ee-8b38-0bf08c9194cd; __kps=AAS5un6UQRxYbXomKXVSFn4A; __ktd=G5kLjLLS36xxbL6N/cNevA==; __uid=AAS5un6UQRxYbXomKXVSFn4A; __puus=0eba804bd2bedfcf66bbe1f0afdaff8eAAQv2rwm6WDtTp8fVgLcqJUrFihlWG5S7MAO2vC7UK1Rutsl/X15NzzignjggZGhTCBhjEBZn0aCTEtNEtcQNcAblemF45bM78s8UuPpANjxU9ebaQP7+Qoyupma/1GZOF5t0uwi1F/SqxuyZrOdXZwLlfWP50ar269ucGzHdRlxWlkiyNxCk8zppwpLLnHk3GZj3mC0JrHafRQRRfoGFvLT"
+}
