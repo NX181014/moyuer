@@ -14,7 +14,7 @@
     },
     {
       "key": "csp_JianPian",
-      "name": "摸摸🐟｜12.17更新",
+      "name": "12.19接口|更新",
       "type": 3,
       "api": "csp_JianPian",
       "playerType": 1,
@@ -40,14 +40,13 @@
       "name": "摸摸🐟｜功能设置",
       "type": 3,
       "api": "csp_Config",
+      "jar": "./jar/mydm1219.jar",
       "searchable": 0,
       "changeable": 0,
       "style": {
         "type": "rect",
-        "ratio": 1
-      },
-      "ext": "./json/PG推送.json",
-      "jar": "./jar/myxb1217.jar;md5;4a62432e0a5222562754aae863cb9dc0"
+        "ratio": 1.43
+      }
     },
     {
       "key": "应用商店",
@@ -60,18 +59,6 @@
       "jar": "./jar/moyu应用市场.jar"
     },
     {
-      "key": "花海",
-      "name": "4K-HDR🐟花海",
-      "type": 3,
-      "api": "csp_Wobg",
-      "jar": "./jar/myxb1217.jar;md5;4a62432e0a5222562754aae863cb9dc0",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "./json/PG推送.json$$$https://wobge.run.goorm.io$$$1",
-      "timeout": 60
-    },
-    {
       "key": "影探",
       "name": "4K-HDR🐟影探",
       "type": 3,
@@ -79,8 +66,17 @@
       "ext": "https://d.kstore.space/download/6296/js/yt.js"
     },
     {
+      "key": "新6V",
+      "name": "4K-HDR🐟山海",
+      "type": 3,
+      "api": "csp_Xb6v",
+      "jar": "./jar/mydm1219.jar",
+      "searchable": 1,
+      "changeable": 0
+    },
+    {
       "key": "玩偶哥哥",
-      "name": "4K-HDR🐟玩偶",
+      "name": "4K-HDR🐟玩偶|弹幕",
       "type": 3,
       "api": "csp_WoGG",
       "searchable": 1,
@@ -89,44 +85,78 @@
       "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+4k|auto|fhd$$$https://api.wogg.xyz/$$$弹"
     },
     {
-      "key": "xb6v磁力",
-      "name": "4K-HDR🐟山海",
-      "type": 3,
-      "api": "csp_Xb6v",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 0,
-      "ext": "./json/PG推送.json$$$http://www.xb6v.com$$$null$$$1",
-      "timeout": 60
-    },
-    {
-      "key": "yanyu",
-      "name": "4K-HDR🐟燕语",
-      "type": 3,
-      "api": "csp_Upyunso",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "http://127.0.0.1:9978/file/TVBox/tok.txt",
-      "jar": "./jar/myal1216.jar;md5;fc949b50853350f2e7462f603f733087"
-    },
-    {
       "key": "yelan",
-      "name": "4K-HDR🐟夜澜",
+      "name": "4K-HDR🐟夜澜|弹幕",
       "type": 3,
-      "api": "csp_AliPS",
+      "api": "csp_PanSearch",
+      "jar": "./jar/mydm1219.jar",
       "searchable": 1,
-      "quickSearch": 1,
       "filterable": 0,
-      "ext": "http://127.0.0.1:9978/file/TVBox/tok.txt",
-      "jar": "./jar/myal1216.jar;md5;fc949b50853350f2e7462f603f733087"
+      "changeable": 0,
+      "ext": {
+        "token": "http://127.0.0.1:9978/file/TV/ali_token.txt",
+        "danmu": true
+      }
+    },
+    {
+      "key": "xiyan",
+      "name": "4K-HDR🐟夕颜|弹幕",
+      "type": 3,
+      "api": "csp_Wobg",
+      "jar": "./jar/mydm1219.jar",
+      "quickSearch": 1,
+      "changeable": 1,
+      "filterable": 1,
+      "ext": {
+        "token": "http://127.0.0.1:9978/file/TV/ali_token.txt",
+        "cookie": "http://127.0.0.1:9978/file/TV/quark_cookie.txt",
+        "danmu": true
+      }
+    },
+    {
+      "key": "七夜",
+      "name": "4K-HDR🐟七夜|弹幕",
+      "type": 3,
+      "api": "csp_Dovx",
+      "jar": "./jar/mydm1219.jar",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 0,
+      "ext": {
+        "token": "http://127.0.0.1:9978/file/TV/ali_token.txt",
+        "danmu": true
+      }
+    },
+    {
+      "key": "jinyi",
+      "name": "4K-HDR🐟尽一|弹幕",
+      "type": 3,
+      "api": "csp_Zhaozy",
+      "jar": "./jar/mydm1219.jar",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 0,
+      "ext": {
+        "token": "http://127.0.0.1:9978/file/TV/ali_token.txt",
+        "danmu": true
+      }
     },
     {
       "key": "yeyu",
       "name": "4K-HDR🐟落雨",
       "type": 3,
       "api": "csp_Yisou",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "http://127.0.0.1:9978/file/TVBox/tok.txt",
+      "jar": "./jar/myal1216.jar;md5;fc949b50853350f2e7462f603f733087"
+    },
+    {
+      "key": "yanyu",
+      "name": "4K-HDR🐟燕语",
+      "type": 3,
+      "api": "csp_Upyunso",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
@@ -145,38 +175,6 @@
       "jar": "./jar/myal1216.jar;md5;fc949b50853350f2e7462f603f733087"
     },
     {
-      "key": "YiSo",
-      "name": "4K-HDR🐟易搜",
-      "type": 3,
-      "api": "csp_YiSo",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt+4k|fhd|auto"
-    },
-    {
-      "key": "七夜",
-      "name": "4K-HDR🐟七夜",
-      "type": 3,
-      "api": "csp_Dovx",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvfan/token.txt+auto|4k|fhd"
-    },
-    {
-      "key": "UpYun",
-      "name": "4K-HDR🐟UP搜",
-      "type": 3,
-      "api": "csp_UpYun",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "changeable": 0,
-      "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt+4k|fhd|auto"
-    },
-    {
       "key": "xiyan",
       "name": "4K-HDR🐟一诺",
       "type": 3,
@@ -186,23 +184,6 @@
       "filterable": 1,
       "ext": "./json/gg.json",
       "jar": "./jar/myal1216.jar;md5;fc949b50853350f2e7462f603f733087"
-    },
-    {
-      "key": "jinyi",
-      "name": "4K-HDR🐟尽一",
-      "type": 3,
-      "api": "csp_Panda",
-      "ext": {
-        "标题": "<span*>&&</div>",
-        "副标题": "时间:&&格式",
-        "图片": "thumb=\"&&\"",
-        "链接": "/cv/+href=\"/s/&&\"",
-        "搜索url": "https://www.alipansou.com/search?page={pg}&k={wd}&s=0&t=7;;kS5",
-        "timeout": 30,
-        "changeable": 0,
-        "阿里token": ""
-      },
-        "jar": "./jar/PandaQ231205.jar;md5;9cc29f6286b2fe7910628852929c4bdb"
     },
     {
       "key": "雪凝",
@@ -227,6 +208,28 @@
       "jar": "https://jihulab.com/sxtv/1020/-/raw/main/%E7%A6%81%E6%AD%A2%E8%B4%A9%E5%8D%96/sx.jar"
     },
     {
+      "key": "YiSo",
+      "name": "4K-HDR🐟易搜",
+      "type": 3,
+      "api": "csp_YiSo",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt+4k|fhd|auto"
+    },
+    {
+      "key": "UpYun",
+      "name": "4K-HDR🐟UP搜",
+      "type": 3,
+      "api": "csp_UpYun",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "changeable": 0,
+      "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt+4k|fhd|auto"
+    },
+    {
       "key": "Zhaozy",
       "name": "4K-HDR🐟资源搜",
       "type": 3,
@@ -239,16 +242,88 @@
     },
     {
       "key": "taxue",
-      "name": "踏雪❤️4K",
+      "name": "踏雪❤️4K|弹幕",
       "type": 3,
       "api": "csp_YiSo",
-      "jar": "./jar/myxb1217.jar;md5;4a62432e0a5222562754aae863cb9dc0",
-      "changeable": 0,
+      "jar": "./jar/mydm1219.jar",
       "searchable": 1,
-      "quickSearch": 1,
       "filterable": 0,
-      "ext": "./json/PG推送.json$$$satoken=1aee2366-2ff4-4436-b321-a14db23e8294",
-      "timeout": 60
+      "changeable": 0,
+      "ext": {
+        "token": "http://127.0.0.1:9978/file/TV/ali_token.txt",
+        "danmu": true,
+        "cookie": "JSESSIONID=FEAFA3BD405267C378C2455FBAD4A704;satoken=0f065aaa-1b6b-4b9b-9910-83a67fb14da2"
+      }
+    },
+    {
+      "key": "jingyi",
+      "name": "静怡❤️4K|弹幕",
+      "type": 3,
+      "api": "csp_XiaoZhiTiao",
+      "jar": "./jar/mydm1219.jar",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "ext": {
+        "token": "http://127.0.0.1:9978/file/TV/ali_token.txt",
+        "danmu": true
+      }
+    },
+    {
+      "key": "csp_QuPanSou",
+      "name": "趣盘💖4K|弹幕",
+      "type": 3,
+      "api": "csp_QuPanSou",
+      "jar": "./jar/mydm1219.jar",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "ext": {
+        "cookie": "http://127.0.0.1:9978/file/TV/quark_cookie.txt",
+        "danmu": true
+      }
+    },
+    {
+      "key": "csp_Qkpanso",
+      "name": "夸克💖4K|弹幕",
+      "type": 3,
+      "api": "csp_Qkpanso",
+      "jar": "./jar/mydm1219.jar",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "ext": {
+        "cookie": "http://127.0.0.1:9978/file/TV/quark_cookie.txt",
+        "danmu": true
+      }
+    },
+    {
+      "key": "Up云搜",
+      "name": "UP💖4K|弹幕",
+      "type": 3,
+      "api": "csp_Upys",
+      "jar": "./jar/mydm1219.jar",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 0,
+      "ext": {
+        "token": "http://127.0.0.1:9978/file/TV/ali_token.txt",
+        "danmu": true
+      }
+    },
+    {
+      "key": "云盘4K",
+      "name": "YUN💖4K|弹幕",
+      "type": 3,
+      "api": "csp_Yunpan4k",
+      "jar": "./jar/mydm1219.jar",
+      "searchable": 1,
+      "filterable": 0,
+      "changeable": 0,
+      "ext": {
+        "token": "http://127.0.0.1:9978/file/TV/ali_token.txt",
+        "danmu": true
+      }
     },
     {
       "key": "shuying",
@@ -275,17 +350,6 @@
       "filterable": 0,
       "ext": "./json/PG推送.json",
       "timeout": 60
-    },
-    {
-      "key": "jngyi",
-      "name": "静怡❤️4K",
-      "type": 3,
-      "api": "csp_Yisou",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "http://127.0.0.1:9978/file/TVBox/tok.txt",
-      "jar": "./jar/og1204.jar;md5;33d3bd8c68d552c00020abface9ef61b"
     },
     {
       "key": "hanmeng",
@@ -373,38 +437,17 @@
       "timeout": 60
     },
     {
-      "key": "紙條搜",
-      "name": "纸条💖4K",
+      "key": "huahai",
+      "name": "1080P💘花海|弹幕",
       "type": 3,
-      "api": "csp_XiaoZhiTiao",
-      "searchable": 1,
-      "changeable": 0,
-      "jar": "./jar/og1204.jar;md5;33d3bd8c68d552c00020abface9ef61b"
-    },
-    {
-      "key": "趣盘搜",
-      "name": "趣盘💖4K",
-      "type": 3,
-      "api": "csp_Funletu",
-      "jar": "./jar/myxb1217.jar;md5;4a62432e0a5222562754aae863cb9dc0",
-      "changeable": 0,
+      "api": "csp_Jianpian",
+      "jar": "./jar/mydm1219.jar",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
-      "timeout": 60
-    },
-    {
-      "key": "喵狸",
-      "name": "喵喵💖4K",
-      "type": 3,
-      "api": "csp_PanSou",
-      "jar": "./jar/myxb1217.jar;md5;4a62432e0a5222562754aae863cb9dc0",
-      "changeable": 0,
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0,
-      "ext": "./json/PG推送.json",
-      "timeout": 60
+      "filterable": 1,
+      "ext": {
+        "danmu": true
+      }
     },
     {
       "key": "云播",
@@ -1495,6 +1538,31 @@
       "quickSearch": 0,
       "changeable": 0,
       "ext": "https://fanty.run.goorm.site/ext/高中课堂.json"
+    },
+    {
+      "key": "push_agent",
+      "name": "摸摸🐟｜推送",
+      "type": 3,
+      "api": "csp_Push",
+      "jar": "./jar/mydm1219.jar",
+      "searchable": 0,
+      "filterable": 0,
+      "changeable": 0,
+      "ext": {
+        "token": "http://127.0.0.1:9978/file/TV/ali_token.txt",
+        "cookie": "http://127.0.0.1:9978/file/TV/quark_cookie.txt",
+        "danmu": true
+      }
+    },
+    {
+      "key": "push_agent9",
+      "name": "请留意功能设置|无授权勿看",
+      "type": 3,
+      "api": "csp_Push",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt"
     },
     {
       "key": "push_agent0",
