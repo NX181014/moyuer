@@ -1,5 +1,5 @@
 {
-  "spider": "./jar/moyu1221.jar;md5;be6121b5c37471b191114027123912d2",
+  "spider": "./jar/moyuer.jar;md5;be6121b5c37471b191114027123912d2",
   "wallpaper": "http://饭太硬.top/深色壁纸/api.php",
   "warningText": "摸鱼儿：资源来自网络，无盈利，纯技术分享，如有冒犯请联系删除。[所有内容仅供学习使用，请勿用于违法及商业用途，请勿付费购买]",
   "sites": [
@@ -14,7 +14,7 @@
     },
     {
       "key": "csp_JianPian",
-      "name": "摸摸🐟｜12.21接口",
+      "name": "摸摸🐟｜12.23接口",
       "type": 3,
       "api": "csp_JianPian",
       "playerType": 1,
@@ -22,7 +22,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "https://ownjpykxttjzuhy.jiesiwa.com",
-      "jar": "./jar/myal1216.jar;md5;fc949b50853350f2e7462f603f733087"
+      "jar": "./jar/myog.jar"
     },
     {
       "key": "csp_KungFu404",
@@ -40,7 +40,7 @@
       "name": "摸摸🐟｜配置中心",
       "type": 3,
       "api": "csp_Config",
-      "jar":"./jar/myxb1221.jar",
+      "jar": "./jar/mypg.jar",
       "searchable": 0,
       "changeable": 0,
       "style": {
@@ -71,7 +71,7 @@
       "name": "4K-HDR🐟山海",
       "type": 3,
       "api": "csp_Xb6v",
-      "jar":"./jar/myxb1221.jar",
+      "jar": "./jar/mypg.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -94,7 +94,7 @@
       "name": "4K-HDR🐟夜澜|弹幕",
       "type": 3,
       "api": "csp_PanSearch",
-      "jar": "./jar/mydm1221.jar",
+      "jar": "./jar/myok.jar",
       "searchable": 1,
       "filterable": 0,
       "changeable": 0,
@@ -115,7 +115,7 @@
         "token": "http://127.0.0.1:9978/file/tvmoyu/token.txt+4k",
         "danmu": true
       },
-      "jar": "./jar/myDM1221.jar"
+      "jar": "./jar/myok.jar"
     },
     {
       "key": "七夜弹幕版",
@@ -129,14 +129,14 @@
         "token": "http://127.0.0.1:9978/file/tvmoyu/token.txt+4k|auto|fhd",
         "danmu": true
       },
-      "jar": "./jar/myDM1221.jar"
+      "jar": "./jar/myok.jar"
     },
     {
       "key": "玩偶表哥PG",
       "name": "4K-HDR🐟夕颜",
       "type": 3,
       "api": "csp_Wobg",
-      "jar":"./jar/myxb1221.jar",
+      "jar": "./jar/mypg.jar",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0,
@@ -152,7 +152,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "http://127.0.0.1:9978/file/tvmoyu/token.txt",
-      "jar": "./jar/myal1216.jar;md5;fc949b50853350f2e7462f603f733087"
+      "jar": "./jar/myog.jar"
     },
     {
       "key": "yanyu",
@@ -163,7 +163,7 @@
       "quickSearch": 1,
       "filterable": 0,
       "ext": "http://127.0.0.1:9978/file/tvmoyu/token.txt",
-      "jar": "./jar/myal1216.jar;md5;fc949b50853350f2e7462f603f733087"
+      "jar": "./jar/myog.jar"
     },
     {
       "key": "yumeng",
@@ -174,7 +174,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://127.0.0.1:9978/file/tvmoyu/token.txt",
-      "jar": "./jar/myal1216.jar;md5;fc949b50853350f2e7462f603f733087"
+      "jar": "./jar/myog.jar"
     },
     {
       "key": "yinuo",
@@ -185,14 +185,14 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "./json/gg.json",
-      "jar": "./jar/myal1216.jar;md5;fc949b50853350f2e7462f603f733087"
+      "jar": "./jar/myog.jar"
     },
     {
       "key": "团长影视",
       "name": "4K-HDR🐟雪凝",
       "type": 3,
       "api": "csp_TZFile",
-      "jar":"./jar/myxb1221.jar",
+      "jar": "./jar/mypg.jar",
       "ext": "./json/PG推送$$$null$$$1",
       "quickSearch": 1,
       "changeable": 0,
@@ -254,14 +254,14 @@
         "token": "http://127.0.0.1:9978/file/tvmoyu/token.txt+4k|auto|fhd",
         "danmu": true
       },
-      "jar": "./jar/myDM1221.jar"
+      "jar": "./jar/myok.jar"
     },
     {
       "key": "jingyi",
       "name": "静怡❤️4K|弹幕",
       "type": 3,
       "api": "csp_XiaoZhiTiao",
-      "jar": "./jar/mydm1219.jar",
+      "jar": "./jar/myok.jar",
       "searchable": 1,
       "filterable": 1,
       "changeable": 0,
@@ -275,7 +275,7 @@
       "name": "趣盘💖4K|弹幕",
       "type": 3,
       "api": "csp_QuPanSou",
-      "jar": "./jar/mydm1219.jar",
+      "jar": "./jar/myok.jar",
       "searchable": 1,
       "filterable": 1,
       "changeable": 0,
@@ -289,7 +289,7 @@
       "name": "夸克💖4K|弹幕",
       "type": 3,
       "api": "csp_Qkpanso",
-      "jar": "./jar/mydm1219.jar",
+      "jar": "./jar/myok.jar",
       "searchable": 1,
       "filterable": 1,
       "changeable": 0,
@@ -303,7 +303,7 @@
       "name": "UP💖4K|弹幕",
       "type": 3,
       "api": "csp_Upys",
-      "jar": "./jar/mydm1219.jar",
+      "jar": "./jar/myok.jar",
       "searchable": 1,
       "filterable": 0,
       "changeable": 0,
@@ -317,7 +317,7 @@
       "name": "YUN💖4K|弹幕",
       "type": 3,
       "api": "csp_Yunpan4k",
-      "jar": "./jar/mydm1219.jar",
+      "jar": "./jar/myok.jar",
       "searchable": 1,
       "filterable": 0,
       "changeable": 0,
@@ -331,7 +331,7 @@
       "name": "疏影❤️4K",
       "type": 3,
       "api": "csp_UpYun",
-      "jar": "./jar/myxb1221.jar",
+      "jar": "./jar/mypg.jar",
       "changeable": 0,
       "searchable": 1,
       "quickSearch": 1,
@@ -344,7 +344,7 @@
       "name": "缱绻❤️4K",
       "type": 3,
       "api": "csp_XiaoZhiTiao",
-      "jar": "./jar/myxb1221.jar",
+      "jar": "./jar/mypg.jar",
       "changeable": 0,
       "searchable": 1,
       "quickSearch": 1,
@@ -406,7 +406,7 @@
       "name": "校长❤️4K",
       "type": 3,
       "api": "csp_XiaoZhang",
-      "jar": "./jar/myxb1217.jar;md5;4a62432e0a5222562754aae863cb9dc0",
+      "jar": "./jar/mypg.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -429,12 +429,12 @@
       "name": "盘搜💖4K",
       "type": 3,
       "api": "csp_PanSearch",
-      "jar": "./jar/myxb1217.jar;md5;4a62432e0a5222562754aae863cb9dc0",
+      "jar": "./jar/mypg.jar",
       "changeable": 0,
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "./lib/PG推送.json",
+      "ext": "./json/PG推送.json",
       "timeout": 60
     },
     {
@@ -442,7 +442,7 @@
       "name": "1080P💘花海|弹幕",
       "type": 3,
       "api": "csp_Jianpian",
-      "jar": "./jar/mydm1219.jar",
+      "jar": "./jar/myok.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -457,7 +457,7 @@
       "api": "csp_Skapp",
       "playerType": 2,
       "ext": "./json/yunbo.json",
-      "jar": "./jar/myal1216.jar;md5;fc949b50853350f2e7462f603f733087"
+      "jar": "./jar/myog.jar"
     },
     {
       "key": "初月",
@@ -466,7 +466,7 @@
       "api": "csp_App",
       "playerType": 2,
       "ext": "./json/星星.json",
-      "jar": "./jar/myal1216.jar;md5;fc949b50853350f2e7462f603f733087"
+      "jar": "./jar/myog.jar"
     },
     {
       "key": "哔嘀",
@@ -476,7 +476,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar": "./jar/myal1216.jar;md5;fc949b50853350f2e7462f603f733087"
+      "jar": "./jar/myog.jar"
     },
     {
       "key": "蝴蝶",
@@ -485,7 +485,7 @@
       "api": "csp_Hudie",
       "playerType": 2,
       "ext": "https://yundun-hdsign.zhuifeng100.cn|kT2taP|75f7fac7f56d812d1f9ce89d9f312984|b7688bd6347da0b2b62515b0730b872b",
-      "jar": "./jar/myal1216.jar;md5;fc949b50853350f2e7462f603f733087"
+      "jar": "./jar/myog.jar"
     },
     {
       "key": "梦华",
@@ -497,7 +497,7 @@
       "playerType": 2,
       "filterable": 1,
       "ext": "./json/超神.json",
-      "jar": "./jar/myal1216.jar;md5;fc949b50853350f2e7462f603f733087"
+      "jar": "./jar/myog.jar"
     },
     {
       "key": "流年",
@@ -509,7 +509,7 @@
       "playerType": 2,
       "filterable": 1,
       "ext": "./json/嘿嘿.json",
-      "jar": "./jar/myal1216.jar;md5;fc949b50853350f2e7462f603f733087"
+      "jar": "./jar/myog.jar"
     },
     {
       "key": "诗意",
@@ -521,7 +521,7 @@
       "playerType": 2,
       "filterable": 1,
       "ext": "./json/老虎.json",
-      "jar": "./jar/myal1216.jar;md5;fc949b50853350f2e7462f603f733087"
+      "jar": "./jar/myog.jar"
     },
     {
       "key": "橘子",
@@ -1061,7 +1061,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "jar":"./jar/DM1212.jar"
+      "jar": "./jar/DM1212.jar"
     },
     {
       "key": "维奇",
@@ -1114,7 +1114,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://www.miniku.cc/xgapp.php/v2/",
-      "jar": "./jar/myal1216.jar;md5;fc949b50853350f2e7462f603f733087"
+      "jar": "./jar/myog.jar"
     },
     {
       "key": "Auete",
@@ -1133,7 +1133,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "ext": "http://m.hhssyyss.icu/ruifenglb_api.php/v1.vod",
-      "jar": "./jar/myal1216.jar;md5;fc949b50853350f2e7462f603f733087"
+      "jar": "./jar/myog.jar"
     },
     {
       "key": "360_spider",
@@ -1143,7 +1143,7 @@
       "filterable": 1,
       "quickSearch": 1,
       "searchable": 1,
-      "jar": "./jar/myal1216.jar;md5;fc949b50853350f2e7462f603f733087"
+      "jar": "./jar/myog.jar"
     },
     {
       "key": "低端",
@@ -1175,7 +1175,7 @@
       "quickSearch": 0,
       "filterable": 1,
       "ext": "https://agit.ai/l/o/raw/branch/o/o/py_cctvxw.py",
-      "jar": "./jar/ys1211.jar;md5;3E92F56BD34DBC49F26EBCE77B845255"   
+      "jar": "./jar/ys1211.jar;md5;3E92F56BD34DBC49F26EBCE77B845255"
     },
     {
       "key": "py_cctvzy",
@@ -1197,7 +1197,7 @@
       "quickSearch": 0,
       "filterable": 1,
       "ext": "https://agit.ai/l/o/raw/branch/o/o/py_cctvdy.py",
-      "jar": "./jar/ys1211.jar;md5;3E92F56BD34DBC49F26EBCE77B845255"  
+      "jar": "./jar/ys1211.jar;md5;3E92F56BD34DBC49F26EBCE77B845255"
     },
     {
       "key": "py_cctvty",
@@ -1281,7 +1281,7 @@
       "name": "💚短剧搜",
       "type": 3,
       "api": "csp_Duanju",
-      "jar": "./jar/myxb1217.jar;md5;4a62432e0a5222562754aae863cb9dc0",
+      "jar": "./jar/mypg.jar",
       "searchable": 0,
       "changeable": 0
     },
@@ -1545,12 +1545,12 @@
       "name": "摸摸🐟｜推送",
       "type": 3,
       "api": "csp_Push",
-      "jar": "./jar/mydm1219.jar",
+      "jar": "./jar/myok.jar",
       "searchable": 0,
       "filterable": 0,
       "changeable": 0,
       "ext": {
-        "token": "http://127.0.0.1:9978/file/TV/ali_token.txt",
+        "token": "http://127.0.0.1:9978/file/tvmoyu/token.txt",
         "cookie": "http://127.0.0.1:9978/file/TV/quark_cookie.txt",
         "danmu": true
       }
@@ -1563,7 +1563,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt"
+      "ext": "http://127.0.0.1:9978/file/tvmoyu/token.txt"
     },
     {
       "key": "push_agent0",
@@ -1573,7 +1573,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt"
+      "ext": "http://127.0.0.1:9978/file/tvmoyu/token.txt"
     },
     {
       "key": "push_agent1",
@@ -1583,7 +1583,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt"
+      "ext": "http://127.0.0.1:9978/file/tvmoyu/token.txt"
     },
     {
       "key": "push_agent2",
@@ -1593,7 +1593,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "http://127.0.0.1:9978/file/tvboxqq/token.txt"
+      "ext": "http://127.0.0.1:9978/file/tvmoyu/token.txt"
     }
   ],
   "lives": [
